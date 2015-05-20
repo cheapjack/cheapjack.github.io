@@ -3,7 +3,7 @@ layout: post
 title: "New Blog Post"
 description: ""
 category: 
-tags: [tutorial, intro, beginner]
+tags: [me, tutorial, intro, beginner]
 ---
 {% include JB/setup %}
 
