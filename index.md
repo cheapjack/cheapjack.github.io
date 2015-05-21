@@ -13,12 +13,14 @@ I like to play with how research & knowledge is produced; who makes it, receives
 I usually bring people from different disciplines together to that end 
 
  * Amateur Astronomers
+ * Artists
  * Canoeing clubs
  * Chemical Factory Employees
  * Computer Scientists
  * Decap Organ Restorers 
  * Engineers
  * Hackspaces
+ * Nintendo DS Programmers
  * Planespotters
  * Political Academics
  * Sailors
