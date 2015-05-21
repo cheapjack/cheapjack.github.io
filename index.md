@@ -27,6 +27,10 @@ I usually bring people from different disciplines together to that end
 
 I've done this for people like Octopus Collective, FACT, PRS for Music Foundation, National Museums Liverpool, Tate Liverpool, Ultima Contemporary Music Oslo, Laznia Centre for Contemporary Art, SoundNetwork, Arts Council England, AND Festival, Liverpool Biennial, Halton Borough Council and Urbane Kunst Ruhr.
 
+##My github
+
+Find my stuff on [github](https://github.com/cheapjack)
+
 ## My Blog
 
 <ul class="posts">
