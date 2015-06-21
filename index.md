@@ -8,7 +8,7 @@ tagline: Connecting People and Things
 
 ###Cheapjack is me, Ross Dalziel, an artist who sets up activity, events & systems to explore how knowledge is produced and shared. 
 
-I like to play with how research & knowledge is produced; who makes it, receives it, where they make it and how. 
+**I like to play with how research & knowledge is produced; who makes it, receives it, where they make it and how.**
 
 I usually put together events, systems and situations that explore this.
 
