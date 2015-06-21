@@ -2,7 +2,8 @@
 layout: page
 title: "Fairground Frameworks"
 description: "Bouncy Castles & Crazy Golf"
-tags: [music, SoundNetwork, events, Bouncy Castle]
+category:
+tags: [music, SoundNetwork, Crazy Golf,  events, Bouncy Castle]
 ---
 {% include JB/setup %}
 
