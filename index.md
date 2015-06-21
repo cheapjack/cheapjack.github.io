@@ -6,7 +6,7 @@ tagline: Connecting People and Things
 {% include JB/setup %}
 ![Viewing Area Image](http://33.media.tumblr.com/fd1af59a2d9c5b5bbaa92467c8218b1a/tumblr_inline_mte05um05M1qa02bl.jpg)
 
-Cheapjack is me, Ross Dalziel, an artist who sets up activity, events & systems to explore how knowledge is produced and shared. 
+###Cheapjack is me, Ross Dalziel, an artist who sets up activity, events & systems to explore how knowledge is produced and shared. 
 
 I like to play with how research & knowledge is produced; who makes it, receives it, where they make it and how. 
 
@@ -34,13 +34,19 @@ I've done this for people like Octopus Collective, FACT, The Crafts Council, PRS
 
 Find my stuff on [github](https://github.com/cheapjack)
 
-## My Blog Archive
+##My Projects
+[Project Archive](/pages.html)
+
+##Recent Posts
 
 <ul class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts limit:4 %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
+## My Blog Archive
+[Blog Archive](/archive.html)
 
-
+##My Other Blog
+[Another Blog](http://cheapjack.tumblr.com)
