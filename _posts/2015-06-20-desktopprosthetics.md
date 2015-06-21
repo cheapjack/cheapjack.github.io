@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title: "DesktopProsthetics"
-description: ""
-category: 
+description: "Exhibition Project"
 tags: [3dprinting,Prosthetics]
 ---
 {% include JB/setup %}
