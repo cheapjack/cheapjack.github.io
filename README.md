@@ -2,6 +2,42 @@
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
+## Quickstart
+
+### Serve the website locally
+
+`cd` into your Jekyll-Bootstrap directory you'll run jekyll with server support:
+
+remember to change USERNAME to your GitHub username.
+
+`$ cd USERNAME.github.com 
+$ jekyll serve`
+
+Your blog is now available at:`http://localhost:4000/`.
+
+### Create a Post
+
+Create a post easily via rake task:
+`$ rake post title="Hello World"`
+
+The rake task automatically creates a file with properly formatted filename and YAML Front Matter. Make sure to specify your own title. By default, the date is the current date.
+
+The rake task will never overwrite existing posts unless you tell it to.
+
+### Create a Page
+
+Create pages easily via rake task:
+
+`$ rake page name="about.md"`
+Create a nested page:
+
+`$ rake page name="pages/about.md"`
+Create a page with a "pretty" path:
+
+`$ rake page name="pages/about"`
+# this will create the file: ./pages/about/index.html
+The rake task automatically creates a page file with properly formatted filename and YAML Front Matter as well as includes the Jekyll Bootstrap "setup" file.
+
 ## Usage
 
 For all usage and documentation please see: <http://jekyllbootstrap.com>
