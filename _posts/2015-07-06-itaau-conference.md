@@ -121,7 +121,7 @@ Crowdsourcing with Minecraft and fear of the crowd.
 
 Issues around the lack of end user resaerch and UX exploration in NHS IT services led to some interesting work in making patient focussed 'Lifelines' with meta-data so that a patient history was easy to see  
 
-This becomes a life 'track'; or a LifeLine. Looking at a graph of raw aHS records: if you're red you're dead and your record is complete: if you're green you're alive and well: yellow you're file is starting up but not complete: you are 'just' ill..
+This becomes a life 'track'; or a LifeLine. Looking at a graph of raw NHS records: if you're red you're dead and your record is complete: if you're green you're alive and well: yellow you're file is starting up but not complete: you are 'just' ill..
 
 <img src="/images/RestfulRangers.jpg" width = "600">
 
