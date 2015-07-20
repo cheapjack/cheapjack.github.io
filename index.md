@@ -6,13 +6,11 @@ tagline: Connecting People and Things
 {% include JB/setup %}
 ![Viewing Area Image](http://33.media.tumblr.com/fd1af59a2d9c5b5bbaa92467c8218b1a/tumblr_inline_mte05um05M1qa02bl.jpg)
 
-###Cheapjack is me, Ross Dalziel, an artist who sets up activity, events & systems to explore how knowledge is produced and shared. 
+###Cheapjack is me, Ross Dalziel, an artist who sets up activity, events & makes systems to explore how knowledge is produced and shared. 
 
 **I like to play with how research & knowledge is produced; who makes it, receives it, where they make it and how.**
 
-I usually put together events, systems and situations that explore this.
-
-I then bring people from different disciplines together to that end 
+I usually put together events, systems and situations that explore this. I then bring people from different disciplines together to make things happen. I'm based at [DoES Liverpool](http://doesliverpool.com/) a brilliant Makerspace in the heart of Liverpool City Centre. 
 
  * Amateur Astronomers
  * Artists
