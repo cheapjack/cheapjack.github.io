@@ -46,5 +46,6 @@ Find my stuff on [github](https://github.com/cheapjack)
 ## My Blog Archive
 [Blog Archive](/archive.html)
 
-##My Other Blog
-[Another Blog](http://cheapjack.tumblr.com)
+##My Other Blogs
+[Thinking & quoting](http://cheapjack.tumblr.com)
+[ArtJelly](http://artjelly.tumblr.com)

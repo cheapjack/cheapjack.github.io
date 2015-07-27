@@ -11,35 +11,48 @@ tags: [Redistributed Manufacturing, Makerspaces ]
 
 <img src="/images/minelucky.png" width = "600">
 
-[@FMs_RdM](https://twitter.com/FMs+RdM)
+[@FMs_RdM](https://twitter.com/FMs_RdM)
 
-I'm at an RCA symposium exploring Future Makespaces in Redistributed Manufacturing  I'm interested in the sudden interest in harnassing maker communities and related 'enthusiasts': These are my notes on the speakers and thought exercises. 
+I'm at an [RCA](http://futuremakespaces.rca.ac.uk/) symposium exploring **"Future Makespaces in Redistributed Manufacturing"**  I've been following and indeed taking part and promoting the harnassing of emerging and established 'maker' communities and related 'enthusiasts' in the cultural sphere. With the growth of information/'tech' culture it's no surprise that we are now looking at how Makerspace/Hackspace culture could affect the means of production at scale. 
 
-5 million RaspPI
-10K Arduino a month
+For me it follows on from moving into [DoESLiverpool](http://doesliverpool.com), my [PublicEngineering project](http://wiki.doesliverpool.com/PublicEngineering) and research like the great [NESTA makerspace mapping](http://www.nesta.org.uk/UK-makerspaces/dataset) by [Hannah Stewart](https://twitter.com/Freerange_Inc) and [@hwayoung's](https://twitter.com/hwayoung) exploration of **'the maker belt'** alongside the continuing trend for cultural hackathons which I recently tried my hand at for the [The Hub UK](http://thehubuk.com/) with [Bring&Byte](http://bringandbyte.co.uk). 
+
+These are my notes on the speakers and thought exercises. 
+
+5 million RaspPI have been sold and some 10K Arduino's a month are sold (no ref on this)
 
 How will this plateau out and impact on the future of invention: there is a surface tier that is extremely wide and broad and then a lesser known clowdy dark matter tier.
 
-Are there suspect motives behind it?
+####Are there suspect motives behind Utilising Maker-ness? 
 
-**"Utilising MakerFaires/Maker-ness"** 
-
-#### Barcelona
+#### Barcelona makerspace example:
 
 Tensions between the 'community' and what funders want
 
 Case by case is important
 
-Maintaining diversity
+###Maintaining diversity
 
 <img src="/images/AntiqueSmallEngineClub.jpg" width = "600">
 
+Every year I go to [North West Vintage Rally](http://www.northwestvintagerally.co.uk/) and use it as my ['standard candle'](https://en.wikipedia.org/wiki/Standard_candle) for festival style engagement: there's everything from Dog shows to Fairground Organs to 2-stroke engine clubs. I think it's a good model because
+
+ * No overt conceptual framework
+ * Guaranteed family friendly crowds
+ * Strong and diverse community (although pretty older white male) 
+ * Fairly off-trend enthusiasms
+ * People who visit have an intuitive sense of the value of exhibitions
+ * Randomly mixed with old school fairground caller C.R.E.A.M (Cash Rules Everything Around Me)
+ * Channeling Fred Dibner, Maker Faire and The Antiques Road Show
+ * [Norman's Organs](http://www.normansorgans.co.uk/)
+ * Resilient yet still part funded by Halton Borough Council
+ * Dogs towing carts
+
+I'm only referring to this to make sure in our analysis and mapping and utilisation feasibility studying we don't forget the random spirit of creativity and making without clear aims and objectives that is the real fountain of the technical culture. Another form of Dark Matter surely...
 
 ### Dark Matter of Maker Spaces
 
-Clumping
-
-The thing about 
+#### Clumping
 
 Are makerspaces really designed? Should they be? Relationships to hackerspace culture
 
@@ -110,8 +123,8 @@ Demand and capacity gaps and clinical evidence gap
 
 **Industrial led culture leads and inhibits/inhabits everything**
 
-### Half-Cut Stack: not the full stack? Not useful for everything...
-
+### Half-Cut Stack: is thinking about 'the Full Stack' important here?...
+*Influencing the stack and standards committees*
 
 Material science in additive manufacturing is very poor... FDA in America is still the main regulator
 Service Design is poor: Look at OnShape
@@ -153,11 +166,13 @@ REC Research Excellence C
 
 Social returns...the single front door...
 
-### Critical Bolt holes for innovation and play 
+## Diverse Critical Bolt holes for innovation and play 
 
-Made me think on [Markus Brinkmann](http://blog.marcus-brinkmann.de/)'s idea of hackerspaces as Havens for people and/with knowledge from our [PublicEngineering Project](http://wiki.doesliverpool.com/PublicEngineering) which I blogged about [here](http://cheapjack.github.io/2014/06/18/publicengineering-is-a-response-to-bochum-in-the/)
+The whole day made me think on [Markus Brinkmann's](http://blog.marcus-brinkmann.de/) idea of hackerspaces as **Havens** for people and knowledge from our [PublicEngineering Project](http://wiki.doesliverpool.com/PublicEngineering) which I blogged about [here](http://cheapjack.github.io/2014/06/18/publicengineering-is-a-response-to-bochum-in-the/)
 
+Essentially rather than utilise and harness the makespace it's more about distributing some of the methods and madness and growing them in sustainable bubbles that may have all kinds of different organisational structures. But rather than make them too big (See Article on [Leopole Kohr](http://www.smarturbanism.org.uk/wherever-something-is-wrong-something-is-too-big/) make them truly diverse.
 
+See [this article via McFilter](https://medium.com/hidden-sustainability/float-like-a-fab-lab-sting-like-a-honey-bee-4f9eab3b70c1) to realise that the Future Makespaces project could look at some similar community technology meets industrial culture pasts like the [Lucas Plan](https://www.youtube.com/watch?t=10&v=0pgQqfpub-c) as always excellent internet filtering by [McFilter](http://www.mcqn.net/mcfilter/) not to be confused with [MCFilter](http://dev.bukkit.org/bukkit-plugins/mcfilter/)
 
 Critical of over-hype in co-design but clearly we are all really focussed on Co-Designing with families
 Critical of imagination without restraint but then focussed on imagination?
