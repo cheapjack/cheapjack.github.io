@@ -1,4 +1,14 @@
-# Jekyll-Bootstrap
+# Cheapjack Website
+
+This website is built on `Jekyll-Bootstrap` and hosted for free on github pages; and like most things we use on the `internet`, and just like `books`, all built on other people's hard work. The content was previously on `Tumblr`, someone else's hard work. I love `Tumblr` but wanted to take ownership of the content and be able to put it in a more standard and simpler form. Ideally this should be nice simple `html` but, well I found a way of exporting all my tumblr content safely into github pages while maintaining all the structure and meta data ie tags. As a recent convert to `git` and `github` and even `gitprint` and things like [gitlab](https://about.gitlab.com/) to maintain and project manage information it made sense while also sensibly serve simple static webpages. 
+
+## Some thoughts on tools
+
+I like to celebrate the tools and knowledge we use to be creative. I'm consistently interested in who's knowledge we use and why. The use of tools is a connection to a **wider commons of knowledge** beyond our individual experience, knowledge and expression.
+
+Much of my intent curatorially is to refer back and engage with the wider community knowledge I aquire and profit from. Github pages is one way to do that. There are other ways [like Linked Research](https://github.com/csarven/linked-research) to do that. And many of them are on `github` ;)
+
+## Jekyll-Bootstrap How-To
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
