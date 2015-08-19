@@ -8,7 +8,7 @@ tags: [3dprinting,Prosthetics]
 
 ![image](/tumblr_files/DesktopProsthetics.png)
 
-I've been working with [Adrian McEwen](https://twitter.com/amcewen) and [Patrick Fenner](https://twitter.com/defproc) fellow permanent deskers at [DoESLiverpool](http://doesliverpool.com "DoESLiverpool's Homepage") to develop an iteration of the [Enabling the Future](http://enablingthefuture.org/upper-limb-prosthetics/the-raptor-hand/ "Enabling The Future Website") project within the [Build Your Own Show](http://www.fact.co.uk/projects/build-your-own-tools-for-sharing.aspx) at [FACT](http://www.fact.co.uk) with [Reach](http://www.reach.org.uk/) and [CraftsCouncilUK](https://twitter.com/craftscounciluk) 
+[Desktop Prosthetics](http://www.fact.co.uk/projects/build-your-own-tools-for-sharing/doesliverpool-ross-dalziel-patrick-fenner-and-adrian-mcewen-uk-desktop-prosthetics-2015.aspx) is a project I've been working on with [Adrian McEwen](https://twitter.com/amcewen) and [Patrick Fenner](https://twitter.com/defproc) fellow permanent deskers at [DoESLiverpool](http://doesliverpool.com "DoESLiverpool's Homepage") to develop an iteration of the [Enabling the Future](http://enablingthefuture.org/upper-limb-prosthetics/the-raptor-hand/ "Enabling The Future Website") project within the [Build Your Own Show](http://www.fact.co.uk/projects/build-your-own-tools-for-sharing.aspx) at [FACT](http://www.fact.co.uk) with [Reach](http://www.reach.org.uk/) and [CraftsCouncilUK](https://twitter.com/craftscounciluk) 
 
 DoESLiverpool is a community of makers and entrepreneurs in Liverpool, with a Co-Working space where I'm based, Workshop and Event Hub. It’s a place to work, learn, share ideas, form groups and make things the way you want to for small fees or initially, cake.
 
