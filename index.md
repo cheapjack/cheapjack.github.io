@@ -50,4 +50,3 @@ Find my stuff on [github](https://github.com/cheapjack)
 [Thinking & quoting](http://cheapjack.tumblr.com)
 [ArtJelly](http://artjelly.tumblr.com)
 
-<a href="/rss.xml"><img src="/images/button.php.png"></a>
