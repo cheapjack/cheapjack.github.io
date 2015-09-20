@@ -27,8 +27,8 @@ We began with a funghal/bacteria microscopy 101 in the Forestry Commission Offic
 
 ####Our bodies are not our own: The convenience of language in the presence of god-like massive eco-systems
 
-Im always amazed by how thinking of "My Body" and "A Tree" as distinct entities inadequatly describes what we **really** are; vast communities of multi and single cellular autonomous organisms changing communicating and reproducing over millenia and every second that we are alive (or dead). Like any way of thinking, simple representational objects are useful and convenient before building up to more complex models: the signs of the alphabet (getting all Marshall McLuhen here) are very simple yet we can translate them so fast we can build very complex things from there...
-
+Im always amazed by how thinking of "My Body" and "A Tree" as distinct entities inadequatly describes what we **really** are; vast communities of multi and single cellular autonomous organisms changing communicating and reproducing over millenia and every second that we are alive (or dead).
+ 
 ###The body and the forest: Funghal infrastructure
 
 Slime Moulds are convenient organisms; they are prolific, hardy and easy to inoculate and culture. I liked Jackie Parry's reply to the question *"Why Slime Moulds?"*, that it was probably just an easy thing to do and when other scientists saw it they all started using them. So they kind of seem to be like a biological prototyping and testing tool
