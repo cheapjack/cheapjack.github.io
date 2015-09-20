@@ -17,7 +17,7 @@ tags: []
 
 Spent the weekend at [The Night of the Living Deadwood](http://www.andfestival.org.uk/events/night-of-the-living-deadwood/) a workshop organised by AND Festival and [Rod Dillon](https://twitter.com/Sandflyman) exploring the dynamic processes of fungal-tree relationships.
 
-I visited Rod, Jackie and the Micro biology department back in July to think about how Maker and Hackspace cultures and game cultures like Minecraft could be used as approaches to both public engagement and teaching micro biology and research areas like Biological Computation and [Quorum Sensing](https://en.wikipedia.org/wiki/Quorum_sensing)  
+I visited Rod, Jackie and the Micro biology department back in July after applying to the project, to think about how Maker and Hackspace cultures and game cultures like Minecraft could be used as approaches to both public engagement and teaching micro biology and research areas like Biological Computation and [Quorum Sensing](https://en.wikipedia.org/wiki/Quorum_sensing)  
 
 ####Symbiotic Selfies
 
@@ -71,7 +71,7 @@ Jackie's thought of a way to think of the difference in thinking of 'communiciat
 
 ####Quantum RNA
 
-Ive been reading **Teranesia** by Greg Egan about a viral RNA protein that uses quantum inconsistencies in its structure to mutate and adapt across parrallel quantum histories in time; communicating across genetic timelines. It's pretty out there but it also contains a surprising sustained rant about the real value to humanity and science of cultural theory and bio-semiotics. I think it has it's place and it can be important but it also can be put to one side and not always necessary; its another tool. DeadWood felt like all kinds of thinking where welcom when normally specialised disciplines are neatly seperated and can rarely interact. 
+Ive been reading **Teranesia** by Greg Egan about a viral RNA protein that uses quantum inconsistencies in its structure to mutate and adapt across parrallel quantum histories in time; communicating across genetic timelines. It's pretty out there but it also contains a surprising sustained rant about the real value to humanity and science of cultural theory and bio-semiotics. I think it has it's place and it can be important but it also can be put to one side and not always necessary; its another tool. DeadWood felt like all kinds of thinking where welcome when normally specialised disciplines are neatly seperated and can rarely interact. 
 
 ####Meditation cd's
 
