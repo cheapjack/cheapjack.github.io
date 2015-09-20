@@ -85,7 +85,7 @@ I made a Pop-Up Minecraft:Pocket Edition server on an Android phone with bacteri
 
 I've made a [DeadWood Repository on GitHub](https://github.com/cheapjack/DeadWood) which explains the making side in more detail and includes images from the weekend
 
-I think I will continue using game culture as a framework for exploring micro biology so Jackie Parry and I will be making
+I'm going to continue using game culture as a framework for exploring micro biology after discovering that Jackie Parry was making a simulation of Pac-Man with an amoeba, so I hope to collaborate with her on that in exchange for some 3D printed spores...
 
  * Slow - PacMan: using amoebas and other single/multicellular organisms to simulate classics from Game Culture and challenge a human player to compete with the microscopic cultures that make everything work and without which we would never have made any tools in the first place...
 
