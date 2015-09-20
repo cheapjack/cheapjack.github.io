@@ -37,18 +37,11 @@ Slime Moulds are convenient organisms; they are prolific, hardy and easy to inoc
 
 Bio-luminescent bacteria and enzymes make convenient markers
 
-The Rhizomatic Funghal network: The natural vector of these bacteria is in the forest and soil ecosystem: but Rod had a packet of it he bought on Amazon and I wondered How are human supply chains and the gardening shopping networks of Amazon and EBay be used as new vectors for spreading and delivering DNA...
+The Rhizomatic Funghal network: The natural vector of these bacteria is in the forest and soil ecosystem: but when Rod showed us a packet of dehydrated funghi he bought on Amazon I wondered how human supply chains and the gardening shopping networks of Amazon and EBay are being used as new vectors for spreading and delivering DNA...
 
 <img src="/images/laurasmall.jpg" width="600">
 
 ####Is it useful to model these networks?
-
-This workshop has coloured my entire festival experience and Im seeing everything in terms of inter-connected networks: now every artist seem to be acting out or re-presenting broader network models; whether that was a curatorial intent I dont know: Im seeing Bacteria everywhere now.
-
-Carl and his network of hall field transistor sensors 
-The Mesh Network bird whistles
-A sex consultancy network
-Plant flight; picking up on the drone meme networks
 
 
 ##Floating Ideas
@@ -59,7 +52,7 @@ Check out the [Typepad](https://micromashup.hackpad.com/)
 
 ####Festivals as Havens 
 
-AND felt like a retreat into a haven for exploring and thinking and making art with technology; but also about making it in the landscape and not just in the city and to deal with different scales. It echoed myself and Markus Brinkmann's thoughts of getting away from **Festivals** and **labs** and instead thinking about **havens**, springing from thinking about hackspaces as havens for knowledge and people. Havens imply more sustained research and exploration and space for reflection/renewal; and DeadWood was a great example of that as is the ongoin work with Rod & his team at BLS in Lancaster.
+AND felt like a retreat into a haven for exploring and thinking and making art with technology; but also about making it in the landscape and not just in the city and to deal with different scales. It echoed myself and Markus Brinkmann's thinking around [PublicEngineering](http://cheapjack.github.io/2014/06/18/publicengineering-is-a-response-to-bochum-in-the/) of getting away from **Festivals** and **labs** and instead thinking about **havens**, springing from thinking about hackspaces as havens for knowledge and people. Havens imply more sustained research and exploration and space for reflection/renewal; and DeadWood was a great example of that as is the ongoing work with Rod & his team at BLS in Lancaster.
 
 
 #Day 2
@@ -78,13 +71,13 @@ Jackie's thought of a way to think of the difference in thinking of 'communiciat
 
 ####Quantum RNA
 
-Ive been reading **Teranesia** by Greg Egan about a viral RNA protein that uses quantum inconsistencies in its structure to mutate and adapt across parrallel quantum histories in time; communicating across genetic timelines. It's pretty out there but it also contains a surprising sustained rant about the real value to humanity of obscure cultural theory and bio-semiotics and it's value in the future of 'science'.
+Ive been reading **Teranesia** by Greg Egan about a viral RNA protein that uses quantum inconsistencies in its structure to mutate and adapt across parrallel quantum histories in time; communicating across genetic timelines. It's pretty out there but it also contains a surprising sustained rant about the real value to humanity and science of cultural theory and bio-semiotics. I think it has it's place and it can be important but it also can be put to one side and not always necessary; its another tool. DeadWood felt like all kinds of thinking where welcom when normally specialised disciplines are neatly seperated and can rarely interact. 
 
 ####Meditation cd's
 
 Thiago Hersan talked about making meditation tracks to **feel** the masses of bacterial communication in our bodies and relating it to the forest's own information super-highway. And then we all took part in a meditation exercise prototype on the floor before learning how to take microscope pictures with Smartphones...
 
-<img src="http://40.media.tumblr.com/ea133fc5f4e15ec658005d6de817325c/tumblr_nsbac9IEhz1tytl75o1_400.png" width="600">
+<img src="http://40.media.tumblr.com/ea133fc5f4e15ec658005d6de817325c/tumblr_nsbac9IEhz1tytl75o1_400.png" width="300">
 
 ##Making & Looking
 
