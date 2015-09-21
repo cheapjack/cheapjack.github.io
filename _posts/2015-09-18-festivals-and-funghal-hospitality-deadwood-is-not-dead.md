@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Festivals and Funghal Hospitality: Deadwood is not Dead"
+title: "Festivals and Fungal Hospitality: Deadwood is not Dead"
 description: ""
 category: 
 tags: []
