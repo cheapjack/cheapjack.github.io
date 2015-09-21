@@ -29,7 +29,7 @@ We began with a fungal/bacteria microscopy 101 in the Forestry Commission Office
 
 Im always amazed by how thinking of "My Body" and "A Tree" as distinct entities inadequatly describes what we **really** are; vast communities of multi and single cellular autonomous organisms changing communicating and reproducing over millenia and every second that we are alive (or dead).
  
-###The body and the forest: Funghal infrastructure
+###The body and the forest: Fungal infrastructure
 
 Slime Moulds are convenient organisms; they are prolific, hardy and easy to inoculate and culture. I liked Jackie Parry's reply to the question *"Why Slime Moulds?"*, that it was probably just an easy thing to do and when other scientists saw it they all started using them. So they kind of seem to be like a biological prototyping and testing tool
 
