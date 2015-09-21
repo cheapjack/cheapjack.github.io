@@ -21,7 +21,7 @@ I visited Rod, Jackie and the Micro biology department back in July after applyi
 
 ####Symbiotic Selfies
 
-We began with a funghal/bacteria microscopy 101 in the Forestry Commission Office of Grizedale Forest and spent the weekend collecting samples and images, worrying about anthropormorphic language and signs, observing 3-way Spore sex, Mycorrhizal funghal networks, meditating, Minecrafting Bacterial hyphae landscapes and walking the Forest hills for mesh networked whistling scultptures. 
+We began with a fungal/bacteria microscopy 101 in the Forestry Commission Office of Grizedale Forest and spent the weekend collecting samples and images, worrying about anthropormorphic language and signs, observing 3-way Spore sex, Mycorrhizal fungal networks, meditating, Minecrafting Bacterial hyphae landscapes and walking the Forest hills for mesh networked whistling scultptures. 
 
 <img src="/images/woodsmall.jpg" width="600">
 
