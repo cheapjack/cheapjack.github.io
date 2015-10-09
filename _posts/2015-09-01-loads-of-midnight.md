@@ -44,12 +44,17 @@ I love Hwa Young's idea of us starting to make **Art-E-Fakes** and **Feelies** f
 
 Instead of things directly *needed* by the game to play I think we can make arte-fakes that are maybe oblique consequences of the games we've made. The best example Glenn blogged about from the "Hitchhikers Guide To the Galaxy" was the 'microscopic spacefleet' ie an empty plastic bag. 
 
+<img src="/images/emoji-gloves.jpg" width="600">
+
 So from the Hull group I've made: 
 
  * Fake ID cards for the fictional 'FutureGen' company and used the typeface from an existing company with fake 'bio-metric' scanners: 
   * **ie** a blue LED connected to a battery. 
  * Emoji-Gloves - a secret communication system based on the ancient use of emoji [Markup language](https://en.wikipedia.org/wiki/Markup_language) on the now defunct android mobile operating system "Blue Ribband 6.0"
   * **ie** lasercut emoji symbols that can be velcroed onto handling gloves from [Toolstation](http://www.toolstation.com/)
+
+
+<img src="/images/codesignhull1.jpg" width="600">
 
 Other Ideas we came up with in Hull:
 
