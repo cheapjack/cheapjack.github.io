@@ -9,6 +9,8 @@ tags: [Text Adventures, TextAdventureTime]
 
 <img src="http://www.filfre.net/wp-content/uploads/2013/07/quill-300x131.jpg" width="300">
 
+I've been working for a good while on the [TextAdventureTime project](http://www.textadventuretime.co.uk/about/) with **Hwa Young Jung** and **Glenn Boulter** from [ReDock](http://re-dock.org/) for [Networked Narrative](http://www.fact.co.uk/projects/networked-narrative.aspx).
+
 When I think of Text Adventure Time I think of many hours late at night in my bedroom 1985-87 working on "Lost in the Supermarket", a still unfinished text adventure.
 
 I started making text adventures in 1985 because I loved [ZXSpectrum](http://www.worldofspectrum.org/) computer games and wanted to make games like the ones I loved. Despite my best mate being able to code and a week of work experience at Ocean Software I just did not have the skillset. But someone made a programme called [The Quill](http://www.filfre.net/2013/07/the-quill/) which like Twine, let you make interactive fiction without having to learn machine code.
