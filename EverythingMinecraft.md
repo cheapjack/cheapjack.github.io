@@ -101,6 +101,8 @@ Prototype Minecraft pick and place machine
  * Prototype Minecraft Of Things ['shrimp' kits](https://github.com/cheapjack/ShrimpCraft/blob/master/ShrimpAssembly/CompleteTemperatureSensor.pdf)
  * Prototype shrimp assembly 
 
+<img src="/images/RFID.jpg" width="600">
+
 #### Hardware
 
  * Raspberry Pi Radio control Arduino HAT
@@ -109,9 +111,8 @@ Prototype Minecraft pick and place machine
  * Custom Radio Control Arduino Board based on Moteino
  * Custom WiFi Arduino kit based on SparkFun ESP8266
  * Custom sensor kit (tbc)
-
- * Distributed through Oomlout
- * Tested at OGGCAMP
+ * Distributed through Oomlout? (tbc)
+ * Tested at OGGCAMP15
 
 ### Community
 
@@ -127,21 +128,32 @@ Prototype Minecraft pick and place machine
  * Gemma May Latham
  * Aaron Oomlout
  * Rachel Rayns
+ * Dr Mark Wright
+ * Stefan Kazassoglou
+ * Rademas Anje
+ * Jade Parkinson Hill
+ * Ceredig Cattanach-Chell
+ * Anna Kronenburg
+ * Mark Anderton
+ * Mark Murphy
+ * Lesley Taker
+ * Gemma May Latham
 
-### Community
+###Community
 
  * Maker Community 
- * Gemma May Latham
  * TweachCode
  * Oggcamp 2013
  * Oggcamp 2015
+ * Minecraft Twitter community
 
 ###Young Advocates and Server Admins
 
- * Sam Woods now studying     at Studio School
- * Dan 		now studying A Level Computer Science and Advanced Maths
+ * Sam Woods now studying A Levels at Studio School
+ * Dan now studying A Level Computer Science and Advanced Maths at Studio School
  * Sam Germains - local Minecraft player
- * 
+
+<img src="/tumblr_files/BeAwesome.png" width="600">
 
 #### Maker Culture events
 
@@ -166,7 +178,7 @@ CloudMaker has had a substantial impact on Ross Dalziels work around game and te
 and the  project.
  * Development of RFCrafting a low power radio control game system for interacting with Minecraft and Text Adventures, **PUBLIC INVESTIGATIONS** Arts Council Project with The National Trust
  * Prototype [DeadWood](https://github.com/cheapjack/DeadWood) biology research project. Developing pop-up minecraft server that allows scientists and artists to overlay images of fungal and bacterial samples onto real world spaces through Minecraft:Pocket Edition on mobile devices. 
-  * Uses a solar powered android smartphone to broadcast a local wifi hotspot to connect to a custom **pocketmine** server for iOS and Android clients to access and explore this game space in real space; in this case the site of the samples. Part of Deadwood workshop at AND2015, Grizedale forest.
+   * Uses a solar powered android smartphone to broadcast a local wifi hotspot to connect to a custom **pocketmine** server for iOS and Android clients to access and explore this game space in real space; in this case the site of the samples. Part of Deadwood workshop at AND2015, Grizedale forest.
  * Prototype MineCraft server for Young Adult Carers for Merseyside E-Health co-design workshop
 
 
@@ -180,5 +192,5 @@ and the  project.
 ###Future work
 
 Adventures in IoT book?
-Brainwave crafting kit.
+Brainwave crafting kit
 
