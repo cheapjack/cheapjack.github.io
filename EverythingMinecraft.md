@@ -10,7 +10,11 @@ tags: [minecraft, minecraftofthings, CloudMaker]
 
 **Overview of Resources and Activity developed from the FACT CloudMaker project**
 
-Exploring how Minecraft 
+**Exploring how Minecraft can be used a platform for social design and collaborative learning.**
+
+**A creative curated package of activity and existing IT and community resources to explore the Minecraft phenomenon as a educational Utility**
+
+I've been involved with FACT CloudMaker project since meeting Paul Harter at Maker Faire Newcastle in 2013. This is an overview of Everything the project has led to and developed.
 
 <img src="/tumblr_files/Cloudmaker.png" width="600">
 
@@ -29,10 +33,11 @@ Exploring how Minecraft
 
 #### Interactive Minecraft Table Interface
 
- * Minecraft Models of former Cains Brewery site
+ * [Minecraft Models](http://www.printcraft.org/blockmodel/4da3fd146d2b5c72437c098ffd36604874983e3527393fde353aa43905abd41c) of the former Cains Brewery site
  * Custom Interactive Table Server
+  * Using a Windows Touch Table 2, `pyOSC` and some code developed by Paul Harter and Stefan Kazassoglou to view feducial tags on 3Dprinted buildings sourced from **PrintCraft** system `.stl` files
  * Custom Printcraft Server
- * Custom Server World for Norwich School
+ * Custom Server World for Norwich Primary School
 
 #### World On A Card 
 
@@ -64,13 +69,16 @@ Prototype Minecraft pick and place machine
  * CloudMaker [Teacher Event](http://www.fact.co.uk/whats-on/current/cloudmaker-teachers-event.aspx)
  * Minecraft workshop for Lesions in the Landscape Exhibition and Preview night
  * Saturday [FACTLab Minecraft Workshop](http://www.fact.co.uk/whats-on/current/do-something-saturday-factlab-minecraft-workshop.aspx)
- * [MemoryCraft](http://www.fact.co.uk/whats-on/current/do-something-saturday-memorycraft.aspx) Programme of inspired by **Lesions in the Landscape** exhibition *Shona Illingworth
-  * Exploring the nature of Memory and how that relates to the internet of things.
+ * [MemoryCraft](http://www.fact.co.uk/whats-on/current/do-something-saturday-memorycraft.aspx) Programme of inspired by **Lesions in the Landscape** exhibition *Shona Illingworth*
+  * Exploring the nature of Memory and how that relates to the **internet of things**.
+
 ####StasisCraft 
+
  * Programme of formal education work with [Liverpool Studio School](http://thestudioliverpool.uk/)
   * Exploring modelling of *homeostasis* in Minecraft with the `mcpi` API
 
 #### Minecraft RFID kiosk: 'World On A Card' Social sharing system
+
  * RFID Minecraft Identity System
   * Exploring Digital Identity 
   * RFID Printer system
@@ -81,11 +89,16 @@ Prototype Minecraft pick and place machine
 
 ### CloudMaker Public Server
 
+ * CloudMaker Server [Documentation and Wiki](https://github.com/cheapjack/CloudMaker/)
+ * Live `Dynmap` [server Browser map](http://mc.fact.co.uk:8124) 
+
+<img src="http://40.media.tumblr.com/eca6ba75c5eae5ca4eff0f66996d8a95/tumblr_n6tgqeoef71tytl75o2_1280.jpg" width="600">
+
 ### Minecraft Of Things 
- * Minecraft Of Things Blog
- * Minecraft Of Things github Repo
+ * Minecraft Of Things [Blog](http://minecraftofthings.tumblr.com)
+ * Minecraft Of Things [github Repo](https://github.com/cheapjack/MoT)
  * Minecraft Of Things Workshop activity at Studio School
- * Prototype Minecraft Of Things 'shrimp' kits
+ * Prototype Minecraft Of Things ['shrimp' kits](https://github.com/cheapjack/ShrimpCraft/blob/master/ShrimpAssembly/CompleteTemperatureSensor.pdf)
  * Prototype shrimp assembly 
 
 #### Hardware
@@ -112,30 +125,8 @@ Prototype Minecraft pick and place machine
  * Currently Network
  * DoESLiverpool
  * Gemma May Latham
-
-
-#### Making Culture events
-
- * Prototype cardboard pick & place trilateration crane (#TLRN) inspired by CloudMaker at OggCamp13, Liverpool
- * #TLRN Crane at ANDFestival AND Fair
- * Minecraft Of Things presentation at Mini-Maker Faire Manchester 
- * Minecraft Of Things presentation at Maker Faire Newcastle 2014 
- * Minecraft Of Things presentation at Internal Make Showcase at LJMU Computer Science Department
- * Minecraft Of Things presentation at ITaaU conference 
- * ShrimpCraft at National Museum Liverpool 
- 
-### Ross Dalziel Continuing Practice
-
- * Pocketmine Public Server commission for Whitworth Art Gallery
- * Administration of [WhitCraft](http://cheapjack.github.io/whitcraft/)
- * [ShrimpCraft](https://github.com/cheapjack/ShrimpCraft) Arduino Analogue sensor kits visualised on the CloudMaker server for: 
-  * [Octopus Collective](http://www.octopuscollective.org/) and Walney Primary School, Walney Island
-  * [Currently](http://www.currently.no/) at National Museums Liverpool Maritime Museum
-  * [Currently](http://www.currently.no/) at [Do It Anyway Festival](http://opensourcingfestivals.eu/events/do-it-anyway-festival-sheffield-uk) in partnership with [Piksel](http://piksel.no/) and [Access Space](http://access-space.org) Sheffield 
-and the  project.
- * Development of RFCrafting a low power radio control game system for interacting with Minecraft and Text Adventures, **PUBLIC INVESTIGATIONS** Arts Council Project with The National Trust
- * Prototype [DeadWood](https://github.com/cheapjack/DeadWood) biology research project. Developing pop-up minecraft server that allows scientists and artists to overlay microscope images of microscopic funghi and bacteria samples onto real world spaces through Minecraft:Pocket Edition on mobile devices. Uses a solar powered android smartphone to broadcast a local wifi hotspot to connect to a custom **pocketmine** server for iOS and Android clients to access and explore this game space in real space; in this case the site of the samples. Part of Deadwood workshop at AND2015, Grizedale forest.
- * Prototype MineCraft server for Young Adult Carers for Merseyside E-Health co-design workshop
+ * Aaron Oomlout
+ * Rachel Rayns
 
 ### Community
 
@@ -151,6 +142,33 @@ and the  project.
  * Dan 		now studying A Level Computer Science and Advanced Maths
  * Sam Germains - local Minecraft player
  * 
+
+#### Maker Culture events
+
+ * Prototype cardboard pick & place trilateration crane (#TLRN) inspired by CloudMaker at OggCamp13, Liverpool
+ * **TLRN** Crane at **ANDFestival AND Fair**
+ * Minecraft Of Things presentation at Mini-Maker Faire Manchester 
+ * Minecraft Of Things presentation at Maker Faire Newcastle 2014 
+ * Minecraft Of Things presentation at Internal Make Showcase at LJMU Computer Science Department
+ * Minecraft Of Things presentation at ITaaU conference 
+ * ShrimpCraft at National Museum Liverpool 
+ 
+### Impact on Ross Dalziel's Artistic Practice
+
+CloudMaker has had a substantial impact on Ross Dalziels work around game and tech culture
+
+ * **WhitCraft**, Minecraft:Pocket Edition Public Server commission and education resources for Whitworth Art Gallery
+ * Administration and upkeep of [WhitCraft](http://cheapjack.github.io/whitcraft/) as a service.
+ * [ShrimpCraft](https://github.com/cheapjack/ShrimpCraft) Arduino Analogue sensor kits visualised on the CloudMaker server for: 
+  * [Octopus Collective](http://www.octopuscollective.org/) and Walney Primary School, Walney Island
+  * [Currently](http://www.currently.no/) at National Museums Liverpool Maritime Museum
+  * [Currently](http://www.currently.no/) at [Do It Anyway Festival](http://opensourcingfestivals.eu/events/do-it-anyway-festival-sheffield-uk) in partnership with [Piksel](http://piksel.no/) and [Access Space](http://access-space.org) Sheffield 
+and the  project.
+ * Development of RFCrafting a low power radio control game system for interacting with Minecraft and Text Adventures, **PUBLIC INVESTIGATIONS** Arts Council Project with The National Trust
+ * Prototype [DeadWood](https://github.com/cheapjack/DeadWood) biology research project. Developing pop-up minecraft server that allows scientists and artists to overlay images of fungal and bacterial samples onto real world spaces through Minecraft:Pocket Edition on mobile devices. 
+  * Uses a solar powered android smartphone to broadcast a local wifi hotspot to connect to a custom **pocketmine** server for iOS and Android clients to access and explore this game space in real space; in this case the site of the samples. Part of Deadwood workshop at AND2015, Grizedale forest.
+ * Prototype MineCraft server for Young Adult Carers for Merseyside E-Health co-design workshop
+
 
 ###Documentation
 <p><iframe src="https://player.vimeo.com/video/92258008" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/92258008">CloudMaker - Making Minecraft Real</a> from <a href="https://vimeo.com/factliverpool">FACT</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
