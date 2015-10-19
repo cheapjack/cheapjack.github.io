@@ -16,6 +16,8 @@ tags: [minecraft, minecraftofthings, CloudMaker]
 
 I've been involved with FACT CloudMaker project since meeting Paul Harter at Maker Faire Newcastle in 2013. This is an overview of Everything the project has led to and developed.
 
+Special Thanks to Researcher Dr Mark Wright for his support and vision and the FACT team who consistently support innovative engagement work.
+
 <img src="/tumblr_files/Cloudmaker.png" width="600">
 
 ###Background
