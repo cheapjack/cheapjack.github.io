@@ -166,6 +166,13 @@ Prototype Minecraft pick and place machine
  * Minecraft Of Things presentation at Internal Make Showcase at LJMU Computer Science Department
  * Minecraft Of Things presentation at ITaaU conference 
  * ShrimpCraft at National Museum Liverpool 
+
+### Audience Stats
+
+Benefactors | Numbers 
+------------ | ------------- 
+Live Audiences & Participants | 5482
+Artists/Technologists | 11
  
 ### Impact on Ross Dalziel's Artistic Practice
 
