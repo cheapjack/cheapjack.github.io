@@ -8,6 +8,15 @@ tags: [minecraft, minecraftofthings, CloudMaker]
 
 #CloudMaker
 
+**Overview of Resources and Activity developed from the FACT CloudMaker project**
+
+![CloudMaker](https://github.com/cheapjack/cheapjack.github.io/blob/master/tumblr_files/Cloudmaker.png)
+
+###Background
+
+[The Minecraft Of Things](http://minecraftofthings.tumblr.com) sprang from research with [FACT](http://fact.co.uk/), [Dr Mark Wright](https://twitter.com/dr_mark_wright), [Adrian McEwen](http://www.mcqn.com/) and Paul Harter of [PrintCraft](http://www.printcraft.org/) funded by [IT as a Utility (ITaaU) Network](http://www.itutility.ac.uk) for the [CloudMaker](http://www.fact.co.uk/projects/cloudmaker-making-minecraft-real.aspx) project
+
+
 ## What we made
 
 
