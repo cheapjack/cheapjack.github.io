@@ -181,9 +181,9 @@ CloudMaker has had a substantial impact on Ross Dalziels work around game and te
  * **WhitCraft**, Minecraft:Pocket Edition Public Server commission and education resources for Whitworth Art Gallery
  * Administration and upkeep of [WhitCraft](http://cheapjack.github.io/whitcraft/) as a service.
  * [ShrimpCraft](https://github.com/cheapjack/ShrimpCraft) Arduino Analogue sensor kits visualised on the CloudMaker server for: 
-  * [Octopus Collective](http://www.octopuscollective.org/) and Walney Primary School, Walney Island
-  * [Currently](http://www.currently.no/) at National Museums Liverpool Maritime Museum
-  * [Currently](http://www.currently.no/) at [Do It Anyway Festival](http://opensourcingfestivals.eu/events/do-it-anyway-festival-sheffield-uk) in partnership with [Piksel](http://piksel.no/) and [Access Space](http://access-space.org) Sheffield 
+   * [Octopus Collective](http://www.octopuscollective.org/) and Walney Primary School, Walney Island
+   * [Currently](http://www.currently.no/) at National Museums Liverpool Maritime Museum
+   * [Currently](http://www.currently.no/) at [Do It Anyway Festival](http://opensourcingfestivals.eu/events/do-it-anyway-festival-sheffield-uk) in partnership with [Piksel](http://piksel.no/) and [Access Space](http://access-space.org) Sheffield 
 and the  project.
  * Development of RFCrafting a low power radio control game system for interacting with Minecraft and Text Adventures, **PUBLIC INVESTIGATIONS** Arts Council Project with The National Trust
  * Prototype [DeadWood](https://github.com/cheapjack/DeadWood) biology research project. Developing pop-up minecraft server that allows scientists and artists to overlay images of fungal and bacterial samples onto real world spaces through Minecraft:Pocket Edition on mobile devices. 
