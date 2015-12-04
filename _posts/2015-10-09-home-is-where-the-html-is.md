@@ -3,7 +3,7 @@ layout: post
 title: "Home is Where the HTML is"
 description: ""
 category: 
-tags: [web,html,Mark up language,github]
+tags: [web,html,Mark up language,github,Quantum physics]
 ---
 {% include JB/setup %}
 
@@ -33,7 +33,7 @@ After working on developing [StasisCraft](https://github.com/cheapjack/StasisCra
 
 http://qcraft.org/about/
 
-And once you've digested that I'd really recommend this presentation by Ron Garret which is *sort of* a combination of alternative Minecraft thinking and quiet considered delivery.
+And once you've digested that I'd really recommend this presentation by Ron Garret
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/dEaecUuEqfc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 

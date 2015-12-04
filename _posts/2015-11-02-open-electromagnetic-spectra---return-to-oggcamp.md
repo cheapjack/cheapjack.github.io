@@ -50,11 +50,11 @@ And the social 'educational' glue of Oggcamp means a makerspace/co-working space
 
 Taking part and giving time to social things like Oggcamp [Liverpool MakeFest](https://lpoolmakefest.wordpress.com/) , [DoESLiverpool](http://doesliverpool.com); the stuff 'outside' of work or formal education, the real social media of people and place, is an essential part of the `literacy` I'm interesed in.
 
-We can learn where literacy can take us in the fascinating history of the **Lucas Group** [this article](https://medium.com/hidden-sustainability/float-like-a-fab-lab-sting-like-a-honey-bee-4f9eab3b70c1#.sq5s8ae5f) @amcewen alerted me to by the [STEPS Centre on Medium](https://medium.com/@stepscentre)
+We can learn where literacy can take us in the fascinating history of the **Lucas Group** in this documentary taken from [this article](https://medium.com/hidden-sustainability/float-like-a-fab-lab-sting-like-a-honey-bee-4f9eab3b70c1#.sq5s8ae5f) @amcewen alerted me to by the [STEPS Centre on Medium](https://medium.com/@stepscentre)
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/0pgQqfpub-c?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-It's examples like this that make me wonder how we can design learning methods and social 'systems' that can keep a `social data-literacy` that I think can be found in the [Dark Matter of Maker Spaces](http://doesliverpool.com/slides/future-makespaces-talk-the-dark-matter-of-makerspaces/) and at Oggcamp into an approach to address real employment skills in a city at scale.
+It's examples like this that make me wonder how we can design learning methods and social 'systems' that can develop a `social data-literacy` that I think can be found in the [Dark Matter of Maker Spaces](http://doesliverpool.com/slides/future-makespaces-talk-the-dark-matter-of-makerspaces/) and at Oggcamp into an approach to address real skill-gaps in a 'knowledge economy' at scale.
 
 There are examples out there, the recent reboot of [Shrimping.it](http://start.shrimping.it/#project)
-and the upcoming [Code For Liverpool](http://codeforliverpool.org/) and to quote @lamdafu **"Improving the world one bit at a time."**
+and the upcoming [Code For Liverpool](http://codeforliverpool.org/) and, like most of the contributors to OGGCAMP to quote @lamdafu **"Improving the world one bit at a time."**
