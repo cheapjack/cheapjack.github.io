@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "ArtGym: Critical Spinning Class and Workout tool"
-description: ""
-category: 
-tags: []
+description: "Post"
+category:
+tags: [Interactive Non-Fiction]
 ---
 {% include JB/setup %}
 
