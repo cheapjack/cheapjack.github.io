@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-<img src="http://cdn.shopify.com/s/files/1/1108/7082/products/Benjamin_2_1024x1024.jpg" width="600"
+<img src="http://cdn.shopify.com/s/files/1/1108/7082/products/Benjamin_2_1024x1024.jpg" width="600">
 
 [TATE Liverpool](http://www.tate.org.uk/art/)'s young curator group [TATECollective](http://www.tate.org.uk/learn/young-people/gallery-collectives/liverpool) came up with the idea of **ArtGym** with [Assemble](http://www.granbyworkshop.co.uk/) a curatorial structure to rethink art activity and participation as a workout for general wellbeing. This was opened up to a group of artists in the city to respond with some art making activity. Creative circuit training is a great idea I think so I was reflecting on stuff someone said about their time in Art School despite not actually becoming an artist for a living. They said the biggest thing it gave them was a critical sensibility about both themselves and the world. For me the key thing about contemporary art is this critical thinking, so was really keen for my 'workout' to be like an art criticism workout somehow. 
 
