@@ -13,6 +13,7 @@ tagline: Connecting People and Things
 I usually put together events, systems and situations that explore this. I then bring people from different disciplines together to make things happen. I'm based at [DoES Liverpool](http://doesliverpool.com/) a brilliant Makerspace in the heart of Liverpool City Centre. 
 
  * Amateur Astronomers
+ * Amatuer Radio Operators
  * Artists
  * Canoeing clubs
  * Chemical Factory Employees
