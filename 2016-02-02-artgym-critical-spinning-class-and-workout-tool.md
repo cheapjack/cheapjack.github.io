@@ -5,10 +5,7 @@ description: "Post"
 category:
 tags: [Interactive Non-Fiction]
 ---
-
-{{ site.posts | debug }}
 {% include JB/setup %}
-{{ site.posts | debug }}
 
 <img src="http://cdn.shopify.com/s/files/1/1108/7082/products/Benjamin_2_1024x1024.jpg" width="600">
 
