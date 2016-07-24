@@ -33,7 +33,7 @@ I was obsessed with packaging or new game systems, notably Lords Of Midnight whi
 
 <img src="http://www.worldofspectrum.org/pub/sinclair/games-adverts/w/WhamTheMusicBox.jpg" width="600">
 
-Some games tried and failed to get major and minor pop star involvement and place their game in pop culture to arguable degrees of success, **Everyone's A Wally** had a specially commissioned soundtrack you played that meant you could rewind the tape ready for the next game load by listening to a (very bad) soundtrack by [Mike Berry}(https://en.wikipedia.org/wiki/Mike_Berry_%28actor%29) famous for his performance of the **Blue Ribband** chocolate bar theme tune and starring in **Are You Being Served**. 
+Some games tried and failed to get major and minor pop star involvement and place their game in pop culture to arguable degrees of success, **Everyone's A Wally** had a specially commissioned soundtrack you played that meant you could rewind the tape ready for the next game load by listening to a (very bad) soundtrack by [Mike Berry](https://en.wikipedia.org/wiki/Mike_Berry_%28actor%29) famous for his performance of the **Blue Ribband** chocolate bar theme tune and starring in **Are You Being Served**. 
 
 **Wham: The Music Box** was endorsed by [Wham](https://en.wikipedia.org/wiki/Wham!) an early music sequencer the highlight of which was the **Whampiler** a programming joke about non-interpreted computer language: I loved the idea of a ridiculous pop band being reduced to machine code but writing a special compiler to turn it back into pop music. 
 
