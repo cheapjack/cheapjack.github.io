@@ -9,15 +9,13 @@ tags: [Science,Networks,Ok Sparks,Freshwater,Domestic Science,RF-Craft,tools]
 
 <img src="/images/oksparksblogbanner1.gif" width="600">
 
-I've been reflecting and reporting on the Arts Council England supported project [Ok Sparks](http://slyrabbit.net/ok-sparks/) with Hwa Young Jung and Glenn Boulter, my major project for the past 2 years. Like all big research led projects they occupy alot of mental space but generate a range of new thinking and drive a huge amount of learning and interestingly, merge with other projects and other practice.
+I've been reflecting and reporting on the **Arts Council England** supported project [Ok Sparks](http://slyrabbit.net/ok-sparks/) with **Hwa Young Jung** and **Glenn Boulter**, my major project for the past 2 years. Like all big research led projects they occupy alot of mental space but generate a range of new thinking and drive a huge amount of learning and interestingly, merge with other projects and other practice.
 
 It's rare to find collaborators that you can work easily with and whose work complements each other but our three part partnership turned out like that. We all decided we would use the project as a context to develop new work and new ways of working for us and eventually it evolved into a new organisation [Domestic Science](http://domesticscience.org.uk).
 
-Ok Sparks explored the layers of history of the tenanats of Wray Castle a victorian folly on Lake Windermere. Built in 1840 by Dr. Dawson, a retired surgeon from Liverpool and his wife, the mock-gothic fantasy castle also featured a walled garden, a church, double boathouse and fernery. The National Trust acquired the castle in 1929, and has since been home to the [Freshwater Biological Association](https://www.fba.org.uk/), the Merchant
-Navy to train radio officers as RMS Wray Castle, used as a conference centre and is now a family friendly visitor attraction.
+Ok Sparks explored the layers of history of the tenanats of **Wray Castle** a victorian folly on Lake Windermere. Built in 1840 by Dr. Dawson, a retired surgeon from Liverpool and his wife, the mock-gothic fantasy castle also featured a walled garden, a church, double boathouse and fernery. **The National Trust** acquired the castle in 1929, and has since been home to the [Freshwater Biological Association](https://www.fba.org.uk/), the **Merchant Navy** to train radio officers as **RMS Wray Castle**, used as a conference centre and is now a family friendly visitor attraction.
 
 Over 2015 - 2016 we developed and programmed a series of activity to explore the lesser known history of a special place in the Lake District with a unique role in the history of science and communication.
-
 
 <img src="/images/oksparksblogbanner2.gif" width="600">
 
