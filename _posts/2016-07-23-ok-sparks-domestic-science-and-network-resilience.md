@@ -68,9 +68,10 @@ There's always a danger for artists to simply re-present something from the worl
 
 Perhaps a good explanatory story of why an artist is interested in the same things as a science, which **Hwa Young** pointed out to me, is the history of the term **scientist** which was coined by science historian William Whewell in 1833 in response to comments from members of the British Association for the Advancement of Science and then seriously proposed in his *Philosophy of The Inductive Sciences* in 1840.
 
-'''
-"We need very much a name to describe a cultivator of science in general. I should incline to call him a Scientist. Thus we might say, that as an Artist is a Musician, Painter, or Poet, a Scientist is a Mathematician, Physicist, or Naturalist."
-'''
+```
+We need very much a name to describe a cultivator of science in general. I should incline to call him a Scientist. Thus we might say, that as an Artist is a Musician, Painter, or Poet, a Scientist is a Mathematician, Physicist, or Naturalist.
+
+```
 
 It would be decades before it became common parlance and alongside the establishment of the scientific method and ever more specialised fields or study, art and science increasingly drifted apart when really they've always been close and at their heart truly about the study of *Natural Philosophy*
 
