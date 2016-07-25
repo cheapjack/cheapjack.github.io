@@ -45,7 +45,7 @@ people from the original RMS Wray Castle, the Merchant Navy’s training college
 
  The unique context of an isolated National Trust venue with no internet access pushed us to design an innovative radio messaging system with [Patrick Fenner](http://www.deferredprocrastination.co.uk) that added network resilience to the distribuiton and installation of the Minecraft Treasure Hunt. This could have future impact for the development of future interactive/augmented reality games and is one of the few pieces of hardware that bridges the gap between Raspberry Pi and Arduino. This research into contemporary radio culture acted as a bridge to the more traditional radio and telecoms communities the Ok Sparks Open Weekend invited. Together with FACT's CloudMaker project, we developed an RF-Craft v.2.0 for the use of teachers and other practitioners to teach the internet of things.  
 
-<img src="images/tiffins.png" width="300">
+<img src="/images/tiffins.png" width="300">
 
  * Tifffin Tin Limited Edition Artworks & Prototype IoT Kit 
  We wanted to sell limited edition kits that act as a publication and artefact of our research, and get non-experts started in exploring freshwater science and radio culture. through the Internet Of Things innovatively packaged in a traditional waterproof Tiffin Tin.
