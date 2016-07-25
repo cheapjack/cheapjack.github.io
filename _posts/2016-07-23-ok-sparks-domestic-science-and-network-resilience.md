@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ok Sparks: Domestic Science and Network resilience"
+title: "Ok Sparks: Domestic Science and Network Resilience"
 description: ""
 category: 
 tags: [Science,Networks,Ok Sparks,Freshwater,Domestic Science,RF-Craft,tools]
@@ -18,6 +18,8 @@ Ok Sparks explored the layers of history of the tenanats of **Wray Castle** a vi
 Over 2015 - 2016 we developed and programmed a series of activity to explore the lesser known history of a special place in the Lake District with a unique role in the history of science and communication.
 
 <img src="/images/oksparksblogbanner2.gif" width="600">
+
+## What We Made
 
  * The Wray Castle Text Adventure Glenn Boulter
 
