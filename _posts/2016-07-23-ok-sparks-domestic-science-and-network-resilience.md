@@ -35,7 +35,8 @@ people from the original RMS Wray Castle, the Merchant Navy’s training college
  An introduction to freshwater biology with scientists from the Freshwater Biological Association. Vistors could Investigate the ecology of the Lakes with hands on activities about chemistry, algae, fish, invertebrates and explored the impact of the lake ecosystem and the role of limnology.
 
  * Freshwater Biological Association Reading Room
- A temporary public reading room of innovative freshwater science publications of the past 30 years of the FBA 
+
+A temporary public reading room of innovative freshwater science publications of the past 30 years of the FBA 
 
  * Minecraft Treasure Hunt Ross Dalziel
 
