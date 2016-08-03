@@ -13,7 +13,7 @@ I've been reflecting and reporting on the **Arts Council England** supported pro
 
 It's rare to find collaborators that you can work easily with and whose work complements each other but our three part partnership turned out like that. We all decided we would use the project as a context to develop new work and new ways of working for us and eventually it evolved into a new organisation [Domestic Science](http://domesticscience.org.uk).
 
-Ok Sparks explored the layers of history of the tenanats of **Wray Castle** a victorian folly on Lake Windermere. Built in 1840 by Dr. Dawson, a retired surgeon from Liverpool and his wife, the mock-gothic fantasy castle also featured a walled garden, a church, double boathouse and fernery. **The National Trust** acquired the castle in 1929, and has since been home to the [Freshwater Biological Association](https://www.fba.org.uk/), the **Merchant Navy** to train radio officers as **RMS Wray Castle**, used as a conference centre and is now a family friendly visitor attraction.
+Ok Sparks explored the layers of history of the tenants of **Wray Castle** a victorian folly on Lake Windermere. Built in 1840 by Dr. Dawson, a retired surgeon from Liverpool and his wife, the mock-gothic fantasy castle also featured a walled garden, a church, double boathouse and fernery. **The National Trust** acquired the castle in 1929, and has since been home to the [Freshwater Biological Association](https://www.fba.org.uk/), the **Merchant Navy** to train radio officers as **RMS Wray Castle**, used as a conference centre and is now a family friendly visitor attraction.
 
 Over 2015 - 2016 we developed and programmed a series of activity to explore the lesser known history of a special place in the Lake District with a unique role in the history of science and communication.
 
@@ -21,24 +21,26 @@ Over 2015 - 2016 we developed and programmed a series of activity to explore the
 
 ## What We Made
 
- * The Wray Castle Text Adventure Glenn Boulter
+We pretty much threw everything we were interested in at the project: every tool and methodology at the edge of our capacity, skillset and knowledge. The idea of layers of history and inviting contemporary versions of that history back to the site held it all together: the diversity of the sites history reflected in the content and approach.
+
+ * **The Wray Castle Text Adventure** Glenn Boulter
 
 A mobile interactive story encouraging young people to explore the castle’s unique architecture and learn about some of it’s former inhabitants. Aimed at younger visitors (5-10), the game centred around a gentle ghost story including some simple freshwater biology and radio operating-themed puzzles. Players were quizzed on details from specific rooms in order to progress through the game
 
- * Ok Sparks! Weekend Ross Dalziel
+ * **Ok Sparks! Radio Weekend Event** Ross Dalziel
 
 Open weekend reflecting on the past of the Merchant Navy at Wray Castle with Furness Amateur Radio Society (FARS) an active community who recently celebrated 100 years of Amateur Radio in Furness in 2013. Barrow Wireless Association was one of the first amateur radio clubs to be issued with a transmitting licence in the UK, on the 26th June 1913. Visitors experienced a special OFCOM licensed Wray Castle Radio station, call sign GB2WCR, played the Minecraft Treasure Hunt, met
 people from the original RMS Wray Castle, the Merchant Navy’s training college, played with morse code and learnt about the continued importance of radio culture in everything from the Internet Of Things, Minecraft and Mountain Rescue. 
 
- * The Easter Class Hwa Young Jung
+ * **The Easter Class Workshops** Hwa Young Jung
 
  An introduction to freshwater biology with scientists from the Freshwater Biological Association. Vistors could Investigate the ecology of the Lakes with hands on activities about chemistry, algae, fish, invertebrates and explored the impact of the lake ecosystem and the role of limnology.
 
- * Freshwater Biological Association Reading Room
+ * **Freshwater Biological Association Reading Room**
 
 A temporary public reading room of innovative freshwater science publications of the past 30 years of the FBA 
 
- * Minecraft Treasure Hunt Ross Dalziel
+ * **Minecraft Treasure Hunt** Ross Dalziel
 
  Special laser cut Minecraft blocks using the [RF-Craft](https://github.com/cheapjack/RF-Craft) system were hidden around the castle venue: when found special low power radio modules send a message to a local Minecraft server on a Raspberry Pi with an RF-Craft receiver HAT to reveal hidden treasure and information about Wray Castle’s past.
 
@@ -48,18 +50,17 @@ A temporary public reading room of innovative freshwater science publications of
 
 <img src="/images/tiffins.png" width="300">
 
- * Tifffin Tin Limited Edition Artworks & Prototype IoT Kit 
+ * **Tifffin Tin Limited Edition Artworks & Prototype IoT Kit** 
  We wanted to sell limited edition kits that act as a publication and artefact of our research, and get non-experts started in exploring freshwater science and radio culture. through the Internet Of Things innovatively packaged in a traditional waterproof Tiffin Tin.
 
- * OkSparks! Publications 
+ * **OkSparks! Publications** 
  Writing with original artwork and found photography by Glenn Boulter, Hwa Young Jung and Ross Dalziel
 
- * The Wray Castle Board game
+ * **The Wray Castle Board game**
  Glenn Boulter developed this game as part of his element of the Tiffin Tin artwork but it was also played with the artists and the public during the 2 weekends in a drop in way. Families in particular enjoyed this game.
 
 <img src="/images/oksparksblogbanner3.gif" width="600">
 
-We pretty much threw everything we were interested in at the project: every tool and methodology at the edge of our capacity, skillset and knowledge. The idea of layers of history and inviting contemporary versions of that history back to the site held it all together: the diversity of the sites history reflected in the content and approach.
 
 All three of us are drawn to lesser known stories and narratives in society & culture; and by culture I don't just mean art, but technical and scientific cultures aswell. We all feel that the ubiquitous presence of information and technical culture in contemporary society warrants it's consideration in any kind of artistic engagement, so much of our work engages in technology somehow. By this I don't mean artists should all be making apps or Processing animations and to abandon traditional craft for 3D printing, but to acknowledge that the default artistic pallette is changing. I tried to look at some of these changes through making a text adventure about [Walter Benjamin](http://domesticscience.org.uk/walter.html).
 
