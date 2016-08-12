@@ -32,7 +32,7 @@ What is awesome about mcpi and the Raspberry Pi version of it is that it takes y
 Come along to MakeFest and learn more, build virtual railway infrastructure and see Mr Brutal and the local Minecraft mapping community's amazing creations!!
 
 
-##Example Code
+## Example Code
 
 Below is some example python code for a <a href="https://www.raspberrypi.org/downloads/">Raspbian</a> Raspberry Pi disk image. There are lot's of resources out there to help you get started with using the Raspberry Pi, so I will leave the internet and the link above to fill you in on that.
 
