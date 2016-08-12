@@ -45,7 +45,7 @@ Type `pi$ ls` and it will list your files in your home folder
 Just type the text after the pi$ part, thats just the command line prompt and shows you who you are logged in as.
 You should have a master folder so go inside that folder
 `pi$ cd master`
-Then you can download the file below with the command line on your Pi or <a href="http://soundnetwork.org.uk/public_html/misc/cheapjack/carriage.py.zip">here</a>
+Then you can download the file below with the command line on your Pi or <a href="http://soundnetwork.org.uk/misc/cheapjack/carriage.py.zip">here</a>
 
 `pi$ wget https://github.com/cheapjack/RF-Rail-Craft/blob/master/carriage.py`
 
