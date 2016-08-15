@@ -47,7 +47,9 @@ Type `pi$ ls` and it will list your files in your home folder
 Just type the text after the pi$ part, thats just the command line prompt and shows you who you are logged in as.
 You should have a master folder so go inside that folder
 `pi$ cd master`
-Then you can download the file below with the command line on your Pi or <a href="http://soundnetwork.org.uk/misc/cheapjack/carriage.py.zip">here</a>
+Then you can download the file below with the command line on your Pi with 
+`wget http://soundnetwork.org.uk/misc/cheapjack/carriage.py.zip`
+or <a href="http://soundnetwork.org.uk/misc/cheapjack/carriage.py.zip">here</a>
 
 `pi$ wget https://github.com/cheapjack/RF-Rail-Craft/blob/master/carriage.py`
 
@@ -66,7 +68,7 @@ If you get stuck come to MSIMakeFest2016 and we will help you out!
 ```
 #!/usr/python
 
-# import mcpi, you will need the mcpi directory to be local to the carriage.py ie in the same directory.  
+# import mcpi, you will need the mcpi directory to be local to the carriage.py ie in the same directory.
 from mcpi import minecraft
 
 # connect to the game locally, ie on your pi
@@ -76,24 +78,28 @@ mc = minecraft.Minecraft.create()
 
 def CarriageTemplate(xpos, ypos, zpos, length, width, numberOfCarriages, material, materialType):
     # main carriage chassis
-    for i in range(1,numberOfCarriages):
-        mc.setBlocks((xpos*i), ypos + 1, zpos, (xpos*i) + length, ypos + 1, zpos + width, material, materialtype)
-        # Make 4 wheels
-        mc.setBlock((xpos*i) + 2, ypos, zpos - 1), 89)
-        mc.setBlock((xpos*i) + length - 2, ypos, zpos - 1, 89)
-        mc.setBlock((xpos*i) + 2, ypos, zpos + (width + 1), 89)
-        mc.setBlock((xpos*i) + length - 2, ypos, zpos + (width + 1), 89)
+        for i in range(1,numberOfCarriages):
+                    mc.setBlocks(xpos+(i*(length+1)) + 1, ypos + 1, zpos, (xpos+(i*length+1)) + length, ypos + 1, zpos + width, material, materialType)
+                            #Make gaps
+                                    # Make 4 wheels
+                                            mc.setBlock(xpos + (i*(length+1)) + 1, ypos, zpos - 1, 89)
+                                                    mc.setBlock(xpos + (i*(length+1)) + length - 1, ypos, zpos - 1, 89)
+                                                            mc.setBlock(xpos + (i*(length+1)) + 1, ypos, zpos + (width + 1), 89)
+                                                                    mc.setBlock(xpos + (i*(length+1)) + length - 1, ypos, zpos + (width + 1), 89)
+
 # Send a message to minecraft console
 mc.postToChat("Hello Minecraft World!")
 mc.postToChat("We need rolling stock!")
 mc.postToChat("Lets get building carriages!")
 playerTilePos = mc.player.getTilePos()
+mc.postToChat("TilePos is " + str(playerTilePos))
+
 # Remember our Carriage function above needs the values Starting xpos, ypos, zpos, length of carriage, width of carriage, numberOfCarriages, blockmaterial, blockmaterialType.
 
-CarriageTemplate(playerTilePos.x, playerTilePos.y, playerTilePos.z, 6, 2, 13, 1)
-CarriageTemplate(10, 1, 10, 6, 2, 13, 1)
+# Call our Carriage Function
+CarriageTemplate(playerTilePos.x+1, playerTilePos.y, playerTilePos.z+1, 6, 2, 4, 42, 0)
 #print to minecraft console so we know what we did
-mc.postToChat("Building " + str(numberOfCarriages) + " Carriage chassis!")
+mc.postToChat("Building Carriage chassis!")
 
 ```
 
