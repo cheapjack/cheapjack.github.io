@@ -78,14 +78,13 @@ mc = minecraft.Minecraft.create()
 
 def CarriageTemplate(xpos, ypos, zpos, length, width, numberOfCarriages, material, materialType):
     # main carriage chassis
-        for i in range(1,numberOfCarriages):
-                    mc.setBlocks(xpos+(i*(length+1)) + 1, ypos + 1, zpos, (xpos+(i*length+1)) + length, ypos + 1, zpos + width, material, materialType)
-                            #Make gaps
-                                    # Make 4 wheels
-                                            mc.setBlock(xpos + (i*(length+1)) + 1, ypos, zpos - 1, 89)
-                                                    mc.setBlock(xpos + (i*(length+1)) + length - 1, ypos, zpos - 1, 89)
-                                                            mc.setBlock(xpos + (i*(length+1)) + 1, ypos, zpos + (width + 1), 89)
-                                                                    mc.setBlock(xpos + (i*(length+1)) + length - 1, ypos, zpos + (width + 1), 89)
+    for i in range(1,numberOfCarriages):
+        mc.setBlocks(xpos+(i*(length+1)) + 1, ypos + 1, zpos, (xpos+(i*length+1)) + length, ypos + 1, zpos + width, material, materialType)
+        # Make 4 wheels
+        mc.setBlock(xpos + (i*(length+1)) + 1, ypos, zpos - 1, 89)
+        mc.setBlock(xpos + (i*(length+1)) + length - 1, ypos, zpos - 1, 89)
+        mc.setBlock(xpos + (i*(length+1)) + 1, ypos, zpos + (width + 1), 89)
+        mc.setBlock(xpos + (i*(length+1)) + length - 1, ypos, zpos + (width + 1), 89)
 
 # Send a message to minecraft console
 mc.postToChat("Hello Minecraft World!")
