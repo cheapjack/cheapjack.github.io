@@ -39,31 +39,46 @@ Come along to MakeFest and learn more, build virtual railway infrastructure and 
 Below is some example python code for a <a href="https://www.raspberrypi.org/downloads/">Raspbian</a> Raspberry Pi disk image. There are lot's of resources out there to help you get started with using the Raspberry Pi, so I will leave the internet and the link above to fill you in on that.
 
 To use it you will need to download Martin O'Hanlon's [mcpi code here](https://github.com/martinohanlon/mcpi) and save it to your home folder, `/home/pi`.
-You can use the Pi browser to download it or the commandline
+You can use the built in Pi `Midori` browser to download it or the commandline:
 
-Now open a Terminal on your Pi (it's in accessories) and type
+Open a Terminal on your Pi (it's in accessories) and type
 
 Type `pi$ ls` and it will list your files in your home folder
-Just type the text after the pi$ part, thats just the command line prompt and shows you who you are logged in as.
-You should have a master folder so go inside that folder
-`pi$ cd master`
-Then you can download the file below with the command line on your Pi with 
+In the following, just type the text after the `pi$ ` part, thats just the command line prompt and shows you who you are logged in as, in this case, `/home`.
+
+download Martin's [mcpi code](https://github.com/martinohanlon/mcpi) with `git` if you use it or `wget` and save it to your home folder, `/home/pi` and unzip it.
+
+`pi$ wget https://github.com/martinohanlon/mcpi/archive/master.zip`
+
+You might need to install `unzip`
+Do that with `pi$ sudo apt-get install unzip`
+Once it's installed unzip with `pi$ unzip master.zip`
+
+You should now have a `mcpi-master` or `mcpi-master.zip` folder so unzip it and go inside that folder
+
+`pi$ cd mcpi-master`
+
+Then download the file below with the command line on your Pi with 
+
 `wget http://soundnetwork.org.uk/misc/cheapjack/carriage.py.zip`
-or <a href="http://soundnetwork.org.uk/misc/cheapjack/carriage.py.zip">here</a>
+or from this link <a href="http://soundnetwork.org.uk/misc/cheapjack/carriage.py.zip">here</a>
+
+unzip `pi$ unzip carriage.py.zip`
 
 `pi$ wget https://github.com/cheapjack/RF-Rail-Craft/blob/master/carriage.py`
 
-**Make sure the `carriage.py` is in the same folder as mcpi so your programme can find it**
+**Make sure the `carriage.py` is in the same folder as mcpi so your programme can find it when it imports the module**
 
-Now open Minecraft and go to a new world and find where you want to build some carriages, you may want to clear a space 
+Now open Minecraft in the Pi Main Menu and go to a new world and find where you want to build some carriages, you may want to clear a space 
 
-Now go back to your Terminal and Run it with 
+Now go back to your Terminal and Run your python code with 
 `python carriage.py`
 
-If all goes well and the mcpi folder you downloaded is in the same place as your carriage.py code
-You will see the message `"Hello Minecraft World!"` in the game console.
+If all goes well and the mcpi folder you downloaded is in the same place as your carriage.py code, you will see the message `"Hello Minecraft World!"` followed by some other messages in the game console.
 
-If you get stuck come to MSIMakeFest2016 and we will help you out!
+Yay! now try hack the `CarriageTemplate` function or use it to make more carriage chassis and start building some classic rolling stock through the ages! Have a look at <a href="mikes.railhistory.railfan.net/r155.html">Mike's Engineering Wonders Site</a> for some historical tips.
+
+If you get stuck come to MSIMakeFest2016 and we will help try you out!
 
 ```
 #!/usr/python
