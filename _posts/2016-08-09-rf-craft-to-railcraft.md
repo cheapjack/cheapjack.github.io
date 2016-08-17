@@ -65,7 +65,7 @@ or from this link <a href="http://soundnetwork.org.uk/misc/cheapjack/carriage.py
 
 unzip `pi$ unzip carriage.py.zip`
 
-`pi$ wget https://github.com/cheapjack/RF-Rail-Craft/blob/master/carriage.py`
+Or you can get it straight from git `pi$ wget https://github.com/cheapjack/RF-Rail-Craft/blob/master/carriage.py`
 
 **Make sure the `carriage.py` is in the same folder as mcpi so your programme can find it when it imports the module**
 
