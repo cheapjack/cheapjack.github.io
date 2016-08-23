@@ -41,6 +41,8 @@ Below is some example python code for a <a href="https://www.raspberrypi.org/dow
 To use it you will need to download Martin O'Hanlon's [mcpi code here](https://github.com/martinohanlon/mcpi) and save it to your home folder, `/home/pi`.
 You can use the built in Pi `Midori` browser to download it or the commandline:
 
+You can also clone the [RF-Rail-Craft-Repo](https://github.com/cheapjack/RF-Rail-Craft) repo and you can run a version of the installation yourself
+
 Open a Terminal on your Pi (it's in accessories) and type
 
 Type `pi$ ls` and it will list your files in your home folder
