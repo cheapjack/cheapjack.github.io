@@ -33,7 +33,7 @@ And whatever people make it has value because of the time and space to think, de
 
  * [John O'Shea](https://twitter.com/_johnoshea) & [re-dock](http://re-dock.org/) bought a [Swan Pedalo](http://www.swanpedalo.org/) on EBay over dinner and open sourced it and later on I hacked it for [currently.no](http://currently.no)
 
- * I continue to work with [Glenn Boulter](http://glennboulter.net) and see [Benedict Phillips](http://benedictphillips.co.uk/)
+ * I continue to work with [Glenn Boulter](http://glennboulter.net) and [Benedict Phillips](http://benedictphillips.co.uk/)
 
  * I commissioned DMLab artist [Bob Levene](http://ruthlevene.co.uk/) and Glenn for [I Walk The Line](http://cheapjack.github.io/IWalkTheLine)
 
