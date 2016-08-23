@@ -37,7 +37,7 @@ And whatever people make it has value because of the time and space to think, de
 
  * I commissioned DMLab artist [Bob Levene](http://ruthlevene.co.uk/) and Glenn for [I Walk The Line](http://cheapjack.github.io/IWalkTheLine)
 
- * Gemma Latham used ECG headsets to control Minecraft with me for [CloudMaker](http://github.com/cheapjack/CloudMaker) and developed [Co-Tidal](https://github.com/cheapjack/Co-Tidal] with me and [Adrian McEwen](http://www.mcqn.net/mcfilter/)
+ * Gemma Latham used ECG headsets to control Minecraft with me for [CloudMaker](http://github.com/cheapjack/CloudMaker) and developed [Co-Tidal](https://github.com/cheapjack/Co-Tidal) with me and [Adrian McEwen](http://www.mcqn.net/mcfilter/)
 
  * I met [James Medd](http://www.jamesmedd.co.uk/) again at **DMLabs** and helped make [Nautical Analogue](http://github.com/cheapjack/nauticalanalogue/) with [Dave Lynch](http://www.davelynch.net/)
 
