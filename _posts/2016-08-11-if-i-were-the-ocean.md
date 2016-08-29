@@ -3,19 +3,19 @@ layout: post
 title: "If I Were The Ocean"
 description: ""
 category: 
-tags: [Currently,Oslo,Internet Of Things,code]
+tags: [Currently,Oslo,Internet Of Things,code,tides,Ocean]
 ---
 {% include JB/setup %}
 
 <img src="/images/cotidal1.jpg" width="600">
 
-Last month I spent 3 days in Oslo for the latest event of the ongoing <a href="http://currently.no">Currently</a> project which I initiated with artist and curator Amanda Steggell back in 2012. **If I Were The Ocean** is Amanda's biggest public exhibition for the project to date and builds on four years of research with a growing network of artists.
+Last month I spent 3 days in Oslo for the latest event of the ongoing <a href="http://currently.no">Currently</a> project which I initiated with artist and curator <a href="http://testingtesting.org/">Amanda Steggell</a> back in 2012. **If I Were The Ocean** is Amanda's biggest public exhibition for the project to date and builds on four years of research with a growing network of artists.
 
 **Currently** has been one of the most challenging and rewarding projects I think I have ever been part of and over the years I've met many Norwegian artists and friends that I have grown to respect and believe in their work. I've also been lucky enough to involve many UK artists and other creative peers in the project who make some of the most exciting technology led work in the UK.
 
 We've worked directly with <a href="http://muio.org/">Steve Symons</a>, John O'Shea, Simon Derwent, <a href="http://janawinderen.com/">Jana Winderen</a>, Hillevi Munthe, <a href="http://mcqn.com/">Adrian McEwen</a>, <a href="http://www.gemmamaylatham.co.uk/">Gemma May Latham</a> and involved the advice, expertise and component source of the <a href="http://noc.ac.uk/">National Oceanographic Centre</a>, <a href="http://www.octopuscollective.org/">Octopus Collective</a>, <a href="https://www.gov.uk/government/organisations/natural-england">Natural England</a>, Simon of SeaLevel Research, Cefn Hoile of <a href="start.shrimping.it">Shrimping.it</a>, <a href="http://www.pointfive.co/content/about">PointFive</a> architects and worked with hosts <a href="http://www.statictrading.com/">STATIC</a>, <a href="http://oggcamp.org/">OggCamp2013</a> and **National Museums Liverpool** and more recently the <a href="http://marmuseum.no">Norwegian Maritime Museum</a>. 
 
-Originally we envisioned Currently as a single epic sea and freshwater journey trawling for folk tales, stories, experiences, images, salt and fresh water data, AIS ship paths and artistic meta data across the shelf sea between Oslo and Liverpool in something called the **GhostNet**. Over four years and 2 hackweekends in Oslo and Liverpool supported by the <a href="http://www.kulturradet.no/english">Norwegian Arts Council</a>, **Currently** has evolved into an ongoing collaboration across a loosely distributed network of artists, engineers, computer scientists, boat builders and sailors. 
+Originally we envisioned Currently as a single epic sea and freshwater journey trawling for folk tales, stories, experiences, images, salt and fresh water data, AIS ship paths and artistic meta data across the shelf sea between Oslo and Liverpool in something called the <a href="http://www.currently.no/ghostnet/>GhostNet</a>. Over four years and 2 hackweekends in Oslo and Liverpool supported by the <a href="http://www.kulturradet.no/english">Norwegian Arts Council</a>, **Currently** has evolved into an ongoing collaboration across a loosely distributed network of artists, engineers, computer scientists, boat builders and sailors. 
 
 Building on these hackdays network member, sailor & project artist **Elizabeth Weihe** sailed to the UK/Norway twice while Amanda and I developed a range of open source tools and workshops in the UK and Norway while other members developed artistic processes independently. So not a single journey, but an epic one nonetheless.
 
@@ -40,7 +40,7 @@ All of this work was presented as thought provoking accessible activity to the p
 
 **If I Were The Ocean** was the first major public exhibition, programme of activity and new work based on this four years of research: and in many ways it was like **Currently** had tipped it's **GhostNet** out on the 'dock' of the **Maritime Museum** for the public to see and the extent of the 'catch' was suddenly vast. 
 
-This time round on the UK side I worked with <a href="http://mcqn.net">Adrian McEwen</a> and <a href="gemmamaylatham.com">Gemma May Latham</a> to develop the <a href="https://github.com/cheapjack/Co-Tidal">Co~Tidal</a> project, a system for generating simple patterns made from traditional Norwegian embroidery qne Tidal Height data from a buoy in Oslo harbour generated from the public's birth date.
+This time round on the UK side I worked with <a href="http://mcqn.net">Adrian McEwen</a> and <a href="gemmamaylatham.com">Gemma May Latham</a> to develop the <a href="https://github.com/cheapjack/Co-Tidal">Co~Tidal</a> project, a system for generating simple patterns made from traditional Norwegian embroidery and Tidal Height data from a buoy in Oslo harbour generated from the exhibition visitor's birth date.
 
 Like <a href="https://github.com/cheapjack/ShrimpCraft">ShrimpCraft</a> **Co-Tidal** uses simple largely open source tools to engage people with the **Data Literacy** I talk about alot but applying this literacy to the context and  awareness of the human connection to the sea.
 
@@ -64,12 +64,12 @@ And as usual when making gets you into that 'zone' you communicate differently, 
 
 As always with **Currently** the experience by the sea and thinking about it inspired me no end. All 3 of us UK artists said we felt we got something out of it we did not realise we needed and it's unclear where this latest research will lead us. 
 
-Perhaps a vision for the Mersey Estuary? Could we replace quad-bike obsessed teens to help out at the docks on open-source jet skis?? Does everything coastal have to be tourism? Can scousers live on and for the water again? 
+Perhaps a vision for the Mersey Estuary? Could we replace quad-bike obsessed teens to help out at the docks on open-source jet skis? Does everything coastal have to be tourism? Can scousers live on and for the water again? 
 
 The first **Currenlty** hackday used the <a href="http://www.swanpedalo.org/">Open Source Swan Pedalo</a> in a giant indoor temporary swimming pool as inspiration to focus the artist's attention to the water. Like Currently, The swan pedalo project attempted to give people, artists or otherwise, the tools and platforms to engage with waterways using something familiar to even the most land locked of people. 
 
-**If I Were The Ocean** is the culmination of everything from that first pedalo journey and it is indeed an epic and diverse one. It reveals just how inspiring the sea is: to ignore it and not experiences something of the material that makes up most of the planet and keeps us alive in so many ways then you're missing something really human. 
+**If I Were The Ocean** is the culmination of everything from that first pedalo journey and it is indeed an epic and diverse one. It reveals just how inspiring the sea is: to ignore it and not experience something of the material that makes up most of the planet and keeps us alive in so many ways then you're missing something really human. 
 
 That many of us may have lost their connections to seafaring and river faring culture or the waterways under our noses and under our motorways is a real shame. 
 
-The **Currently** project will continue with some care, some making, some thinking and some contact with seawater or freshwater to make these connections come alive, and the **GhostNet-work** will carry on trawling long after **If I Were The Ocean** exhibition ends and it's reclaimed pallettes end up distributed around Oslo's harbours, marinas and moorings.
+The **Currently** project will continue with some care, some making, some thinking and some contact with seawater or freshwater to make these connections come alive, and the **GhostNet-work** will carry on trawling long after **If I Were The Ocean** exhibition ends and it's modular exhibition stands of  reclaimed pallettes end up distributed around Oslo's harbours, marinas and moorings.
