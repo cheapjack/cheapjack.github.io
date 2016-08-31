@@ -20,7 +20,7 @@ Originally we envisioned Currently as a single epic sea and freshwater journey t
 Building on these hackdays network member, sailor & project artist **Elizabeth Weihe** sailed to the UK/Norway twice while Amanda and I developed a range of open source tools and workshops in the UK and Norway while other members developed artistic processes independently. So not a single journey, but an epic one nonetheless.
 
 And the **GhostNet** along the lines of the original vision was ultimately never built beyond prototype: instead the diverse activity we have developed and delivered over the project period has collected the flotsam and jetsam of data the net was always meant to collect; but in a way that is free from a single physical journey and larger spectacle based events. Instead it's become a *GhostNetwork*, with many nodes contributing independently and in forms of pop-up workshops
-with a variety of partners. The **GhostNet** referred to fishing nets lost at sea that continue to 'fish', ultimately the <a href="https://github.com/cheapjack/ShrimpCraft">ShrimpCraft</a> project continues to make people think about water based data and how they can interpret it, something the <a href="https://github.com/cheapjack/Co-Tidal">Co~Tidal</a> project tries to move forward. 
+with a variety of partners. The **GhostNet** referred to fishing nets lost at sea that continue to 'fish', ultimately the <a href="https://github.com/cheapjack/ShrimpCraft">ShrimpCraft</a> project using the excellent kits at <a href="http://start.shrimping.it">Shrimping.it</a> continues to make people think about water based data and how they can interpret it, something the <a href="https://github.com/cheapjack/Co-Tidal">Co~Tidal</a> project tries to move forward. 
 
 Currently has generated along the way:
 
@@ -41,6 +41,10 @@ All of this work was presented as thought provoking accessible activity to the p
 **If I Were The Ocean** was the first major public exhibition, programme of activity and new work based on this four years of research: and in many ways it was like **Currently** had tipped it's **GhostNet** out on the 'dock' of the **Maritime Museum** for the public to see and the extent of the 'catch' was suddenly vast. 
 
 This time round on the UK side I worked with <a href="http://mcqn.net">Adrian McEwen</a> and <a href="gemmamaylatham.com">Gemma May Latham</a> to develop the <a href="https://github.com/cheapjack/Co-Tidal">Co~Tidal</a> project, a system for generating simple patterns made from traditional Norwegian embroidery and Tidal Height data from a buoy in Oslo harbour generated from the exhibition visitor's birth date.
+
+Like many things this idea started from a conversation with **Cefn Hoile** while packing up at <a href="https://lpoolmakefest.org/">Liverpool MakeFest 2016</a> about how he was looking at making some kind of **Tidal Clock** kit based on real local tide data for <a href="http://start.shrimping.it">Shrimping.it</a>.
+
+We didn't quite realise this or have had chance to work much further on that yet; maybe for the next **Currently** hackday! We did source a cheap peristaltic pump powered by DC motor and have made an openSCAD model for a 3d printed bouy to float inside some transparent tubing to visualise 'live' tide data. We brought this along to **If I Were The Ocean**. Unfortunately, we were so preoccupied with **Co~Tidal** and our embroidery we did not get to prototyping at the exhibition which was the original plan or work with Cefn futher yet.
 
 Like <a href="https://github.com/cheapjack/ShrimpCraft">ShrimpCraft</a> **Co-Tidal** uses simple largely open source tools to engage people with the **Data Literacy** I talk about alot but applying this literacy to the context and  awareness of the human connection to the sea.
 
