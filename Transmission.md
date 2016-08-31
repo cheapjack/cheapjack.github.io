@@ -5,7 +5,7 @@ description: ""
 tags: [Transmission,Bogota,Andres Burbano,British Council,Residency]
 ---
 {% include JB/setup %}
-
+<img src="http://photos1.blogger.com/blogger/4062/676/1600/Folklorico-Sound-System.jpg" width="400">
 <img src="/images/transmission1.jpg" width = "400">
 
 Transmission was an artist residency : an open research period at Universidad de Los Andes in Bogota, in Colombia into how sound art practice can work with architecture and the built environment.
