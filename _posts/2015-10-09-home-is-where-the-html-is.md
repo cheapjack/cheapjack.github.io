@@ -13,9 +13,11 @@ tags: [web,html,Mark up language,github,Quantum physics]
 
 Maybe it's my point of entry in learning the underlying tech of the web: I know github markdown more than I know `html` is that weird? In feeling a bit paranoid about this I started to look into what Markdown and `Markup language` [is and where it came from](https://en.wikipedia.org/wiki/Markdown) and it made me feel better. It's all about **Readability**
 
-I think I'm drawn to github as its a way of documenting work and developing it all at the same time and it's to do with laziness; It's difficult to re-visit projects after the fact and document things at that point: the act of doing being self documented totally appeals 
+I think I'm drawn to github as its a way of documenting work and developing it all at the same time and it's to do with laziness; It's difficult to re-visit projects after the fact and document things at that point: the act of doing being self documented totally appeals.
 
-All work on the web is essentially public and putting privacy issues to one side I wonder about an art practice where all the wrong turns, developments, jokes, serious intents, failures and successes are trackable and versioned on the fly something like @brettlempereur's [Icreacharound.xyz](http://icreacharound.xyz/) but also surveilling your sketchbook
+All work on the web is essentially public and putting privacy issues to one side I wonder about an art practice where all the wrong turns, developments, jokes, serious intents, failures and successes are trackable and versioned on the fly something like @brettlempereur's [Icreacharound.xyz](http://icreacharound.xyz/) but also maybe the idea of self-surveilling your sketchbook or [gitlab](https://about.gitlab.com/) for art. It's a little bit like the [Agency of Unrealised Projects](http://e-flux.com/aup/) as a service.
+
+Surveillance and convenience of course go hand in hand; so we accept cookies but getting together your own system of sensibly tagging your bookmarks you like or need is a kind of self-surveillance. Unlike much surveillance we are doing it on our own terms and not having to accept someone elses; so it's much nicer to use something like [pinboard](http://pinboard.in) which gives you quite a bit of independence.
 
 Its also a way of making things more **Readable** I wonder if we put more out there in art practice that is readable and ledgible then we don't end up with work without context that only people with highly specialised language can understand: then again much of tech culture is about developing highly specialised language and systems and that's essential and inevitable to **really build things** .
 
