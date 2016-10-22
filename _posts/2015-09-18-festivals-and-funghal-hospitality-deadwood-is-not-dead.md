@@ -15,7 +15,7 @@ tags: []
 *Images by kind permission of [Lucy Barker](https://twitter.com/BucyLarker)*
 
 
-Spent the weekend at [The Night of the Living Deadwood](http://www.andfestival.org.uk/events/night-of-the-living-deadwood/) a workshop organised by AND Festival and [Rod Dillon](https://twitter.com/Sandflyman) exploring the dynamic processes of fungal-tree relationships.
+Spent the weekend at [The Night of the Living Deadwood](http://www.andfestival.org.uk/events/night-of-the-living-deadwood/) a workshop organised by AND Festival and [Rod Dillon](https://twitter.com/Sandflyman), **Viv Dillon** and **Jackie Parry** exploring the dynamic processes of fungal-tree relationships.
 
 I visited Rod, Jackie and the Micro biology department back in July after applying to the project, to think about how Maker and Hackspace cultures and game cultures like Minecraft could be used as approaches to both public engagement and teaching micro biology and research areas like Biological Computation and [Quorum Sensing](https://en.wikipedia.org/wiki/Quorum_sensing)  
 
@@ -64,7 +64,7 @@ Complex vast communities of organisms like us have evolved to impose narratives 
 But the tiny organisms are still in there; still ticking over relentlessly. Maybe working a bit more like a distributed ecosystem now that we have begun to understand them, is a way forward: the biggest tech powerhouses are disrupting everything through that, so I think art practice and science needs to be leaders in that and not just users
 of existing formats.
 
-DeadWood was part of Rod's ongoing advocacy to open up his science community to diverse art & technical cultures and so its less about festival programming and more about ongoing conversations which feels much more organic. We probably first started talking back in 2010 and we've not run headlong into a project together (until recently, more on that soon) as often happens and I think that's really valuable. 
+DeadWood was part of Rod and his department's ongoing advocacy to open up his science community to diverse art & technical cultures and so its less about festival programming and more about ongoing conversations which feels much more organic. We probably first started talking back in 2010 and we've not run headlong into a project together (until recently, more on that soon) as often happens and I think that's really valuable. 
 
 I'm reading into alot here but it's based on a feeling that events take up so much logistical energy you can end up with barely any time to make work; it's a problem for many artists like me that spend alot of time initiating projects and having to build contexts for their work where they can so a haven to reflect is essential as much as a strong studio practice. 
 
