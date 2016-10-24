@@ -46,7 +46,23 @@ A temporary public reading room of innovative freshwater science publications of
 
  * [RF-Craft](https://github.com/cheapjack/RF-Craft)
 
- The unique context of an isolated National Trust venue with no internet access pushed us to design an innovative radio messaging system with [Patrick Fenner](http://www.deferredprocrastination.co.uk) that added network resilience to the distribuiton and installation of the Minecraft Treasure Hunt. This could have future impact for the development of future interactive/augmented reality games and is one of the few pieces of hardware that bridges the gap between Raspberry Pi and Arduino. This research into contemporary radio culture acted as a bridge to the more traditional radio and telecoms communities the Ok Sparks Open Weekend invited. Together with FACT's CloudMaker project, we developed an RF-Craft v.2.0 for the use of teachers and other practitioners to teach the internet of things.  
+ The unique context of an isolated National Trust venue with no internet access pushed us to design an innovative radio messaging system with [Patrick Fenner](http://www.deferredprocrastination.co.uk) that added network resilience to the distribuiton and installation of the Minecraft Treasure Hunt. 
+ 
+We hope this could have future impact on the development of future interactive/augmented reality games and is a handy bit of hardware that bridges the gap between Raspberry Pi and Arduino on top of the ability to send packets of data over radio.
+
+The basic treasure hunt game was designed to allow families to play and explore the castle together: The younger family members for example could hide the lasercut minecraft block butttons in the castle and then send the 'grown-ups' off looking for them while observing a local Minecraft Pi Edition Server in the exhibition room; once the blocks where found and the button pressed the server ( a Raspberry Pi with the RF-Craft HAT in receive mode) would respond by revealing secrets in text
+in the games, often teleporting the player to related gaem locations.
+
+It became apparent that much more elaborate iterations of the game could take place as users quickly hit the game's end as it was designed as a drop-in activity. Much of this part of the project was about the development of a system and tool for developing this kind of game and it became clear that it could trigger hooks and events in text adventures. The power of radio independent of WiFi opened up all kinds of possibilities. The difficulty is finding the right tools
+for the job and then the right well documented tools for the job with a thriving community of users of diverse technical ability.
+
+RF-Craft is the most in depth development I've ever done to build tools to both serve and distribute elements of my artistic practice, something I first came across with the Owl Project and their [Muio](http://muio.org/interface/) system, well before Arduino and maker cultures really got going and before easily accessible documented-for-newbies board culture fully emerged and certainly well before a 'market' existed like the one supporting companies like [pimoroni](https://shop.pimoroni.com/) 
+
+This research into what I see as contemporary radio culture, evolved from the hardware hacking, maker and HAM communities, acted as a social bridge to the more traditional radio and telecoms communities the Ok Sparks Open Weekend invited.
+
+Technical people like technical things to discuss so we had strategically built a system that would act as a conversational honeypot so radio people's technical curiosity merged with game enthusiasts, families and IoT researchers in a fun way.
+
+Together with FACT's CloudMaker project, we developed an RF-Craft v.2.0 for the use of teachers and other practitioners to teach the internet of things.  
 
 <img src="/images/tiffins.png" width="300">
 
