@@ -48,6 +48,9 @@ Find my stuff on [github](https://github.com/cheapjack)
 ## My Blog Archive
 [Blog Archive](/archive.html)
 
+## Speculative Ideas
+[Feed of throwaway and partly serious ideas](https://feeds.pinboard.in/rss/u:cheapjack/t:notimenobudget)
+
 ## My Other Blogs
 [Thinking & quoting](http://cheapjack.tumblr.com)
 [ArtJelly](http://artjelly.tumblr.com)
