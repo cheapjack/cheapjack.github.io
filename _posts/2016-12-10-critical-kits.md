@@ -10,11 +10,11 @@ tags: [makers, make, making, kits]
 ## The Kits Just Keep Coming!
 *reference to a recent advertorial newsletter from [proto-pic](https://www.proto-pic.co.uk/)*
 
-### Thoughts on kit cultures for the [#Critical-Kits](http://critkits.re-dock.org) symposium
+### Thoughts on kit cultures for the [#Critical-Kits](http://criticalkits.re-dock.org) symposium
 
 <img src="/images/WhatMakesAKit.jpg" width="400">
 
-A while back I attended Laura Pullig's Nature & Technology symposium which I [talked about before](http://cheapjack.github.io/2016/03/23/nature-on-github-technical-communities-in-the-landscape) and one of the things that came up was how Neil Winterburn, Laura and I noticed everyone seemed to be talking about 'kits' and this was the beginning of what's become the [#Critical-Kits](http://critkits.re-dock.org) project.
+A while back I attended Laura Pullig's Nature & Technology symposium which I [talked about before](http://cheapjack.github.io/2016/03/23/nature-on-github-technical-communities-in-the-landscape) and one of the things that came up was how Neil Winterburn, Laura and I noticed everyone seemed to be talking about 'kits' and this was the beginning of what's become the [#Critical-Kits](http://criticalkits.re-dock.org) project.
 
 8 years previously I remember discussing with the [Owl Project](http://owlproject.com/) in 2008 how they could sell their [iLogs](http://owlproject.com/iLogs) in the FACT shop but as a kit with a workshop to make them, well before the *maker* meme really had any traction. Arduino's where not really out there; Steve Symons had to build his own platform 'muio' to help make the technology based work the Owls required.
 
@@ -52,7 +52,7 @@ I proposed using this now redundant distribution network, the Leeds/Liverpool ca
 
 <img src="/images/critkits2.jpg" width="400">
 
-In many ways the logical implication and next step of kit and maker culture would be for makers and artists to begin to  manufacture things and start making and distributing at 'scale'. A few factors meant this slow-manufacture idea remained a proposal but all of this kind of thinking drifted  into the [#Critical-Kits](http://critkits.re-dock.org) symposium.
+In many ways the logical implication and next step of kit and maker culture would be for makers and artists to begin to  manufacture things and start making and distributing at 'scale'. A few factors meant this slow-manufacture idea remained a proposal but all of this kind of thinking drifted  into the [#Critical-Kits](http://criticalkits.re-dock.org) symposium.
 
 This was another great opportunity to work with [Neil Winterburn](http://www.neilwinterburn.net/about/) and [re-dock](http://re-dock.org) who I've always thought of as peers and representatives of art & technology done right, with a focus on community without losing critical elements.
 
