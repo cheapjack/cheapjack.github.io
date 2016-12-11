@@ -32,7 +32,7 @@ I do think that many artists interested in using technology  try to build deeper
 
 They did not just 'use' technology they made themselves part of it's culture through designing and building; to generate a 'kit' for themselves to further their work. The [muio](http://muio.org/muio_in) framework, performances and transparent methods for how they made things embodied their practice.  But they did this with a genuine admiration for technical culture not an exploitative intervention approach.
 
-I will never forget that when developing their MIDI Sound lathe, a pre-cursor for their massive [Flow](http://www.flowmill.org/home) installation they were all incredibly excited about a research visit to a wood turning festival: it was as if they'd been invited to work with Tim Berners Lee and Bjork at the Venice Biennale or something; you could see they felt they'd really found something important and it showed a real love for craft and care and a regard for community over profile.
+I will never forget that when developing their MIDI Sound lathe, a pre-cursor for their massive [Flow](http://www.flowmill.org/home) installation they were all incredibly excited about a research visit to a wood turning festival: it showed a real love for craft and care and a regard for community.
 
 <img src="/images/critkits2.jpg" width="400">
 
@@ -42,7 +42,7 @@ I also think the urge for artists to engage in cultures ourside of art, refers b
 
 <img src="/images/rivershrimps.jpg" width="300">
 
-I recently ran a [ShrimpCraft](https://github.com/cheapjack/ShrimpCraft) workshop with [PlayfulAnywhere](http://www.playfulanywhere.co.uk/) on the banks of the Leeds/Liverpool canal and found a print of Turner's study of the canal just 5 minutes along from our workshop location which led to an idea for an unsubmitted proposal for [Domestic Science](http://domesticscience.org.uk) a TATE Liverpool canal project.
+I recently ran a [ShrimpCraft](https://github.com/cheapjack/ShrimpCraft) workshop with [PlayfulAnywhere](http://www.playfulanywhere.co.uk/) on the banks of the Leeds/Liverpool canal and found a print of Turner's study of the canal just 5 minutes along from our workshop location which led to an idea for an unsubmitted proposal for [Domestic Science](http://domesticscience.org.uk).
 
 <img src="http://www.tate.org.uk/art/images/work/D/D12/D12257_10.jpg" width="400">
 
