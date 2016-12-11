@@ -38,7 +38,7 @@ I will never forget that when developing their MIDI Sound lathe, a pre-cursor fo
 
 I think that's at the core of artists using or referencing kits: building a system to make your work can embody not just a process but an ethos and it can become a form of credential. Building a 'kit' or a system can also be part of a critical response to the proprietary tools we are sold as artists. The tools we use are often the tools we are *allowed* to use; dig a bit deeper and you can find things like [Wireshark](https://www.wireshark.org/), [Re-decentralize](https://github.com/redecentralize/alternative-internet), [Inkscape](https://inkscape.org/en/) and [Kitnic](https://kitnic.it/In). In the same way as artists use 'labs' it's a kind of validation for creative work; it proves a use-value for your practice.
 
-I also think the urge for artists to engage in cultures ourside of art, refers back to the idea of **'natural philosophers'** before the term *scientist* was coined from *artist*
+I also think the urge for artists to engage in cultures outside of art, refers back to the idea of **'natural philosophers'** before the term *scientist* was coined from *artist*
 
 <img src="/images/rivershrimps.jpg" width="300">
 
