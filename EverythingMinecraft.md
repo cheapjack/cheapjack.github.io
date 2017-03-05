@@ -6,7 +6,7 @@ tags: [minecraft, minecraftofthings, CloudMaker]
 ---
 {% include JB/setup %}
 
-#CloudMaker
+# CloudMaker
 
 **Overview of Resources and Activity developed from the FACT CloudMaker project**
 
@@ -20,7 +20,7 @@ Special Thanks to Researcher Dr Mark Wright for his support and vision and the F
 
 <img src="/tumblr_files/Cloudmaker.png" width="600">
 
-###Background
+### Background
 
 [The Minecraft Of Things](http://minecraftofthings.tumblr.com) sprang from research with [FACT](http://fact.co.uk/), [Dr Mark Wright](https://twitter.com/dr_mark_wright), [Adrian McEwen](http://www.mcqn.com/) and Paul Harter of [PrintCraft](http://www.printcraft.org/) funded by [IT as a Utility (ITaaU) Network](http://www.itutility.ac.uk) for the [CloudMaker](http://www.fact.co.uk/projects/cloudmaker-making-minecraft-real.aspx) project
 
@@ -62,7 +62,7 @@ Prototype Minecraft pick and place machine
  * Programme of Family Minecraft Workshops
  * StasisCraft CloudMaker science curriculum workshop series exploring Homeo Stasis through the Internet of Things
 
-####FACT Activity
+#### FACT Activity
 
 <img src="/images/MemoryCraft.jpg" width="600">
 
@@ -74,7 +74,7 @@ Prototype Minecraft pick and place machine
  * [MemoryCraft](http://www.fact.co.uk/whats-on/current/do-something-saturday-memorycraft.aspx) Programme of inspired by **Lesions in the Landscape** exhibition *Shona Illingworth*
   * Exploring the nature of Memory and how that relates to the **internet of things**.
 
-####StasisCraft 
+#### StasisCraft 
 
  * Programme of formal education work with [Liverpool Studio School](http://thestudioliverpool.uk/)
   * Exploring modelling of *homeostasis* in Minecraft with the `mcpi` API
@@ -105,9 +105,11 @@ Prototype Minecraft pick and place machine
 
 <img src="/images/RFID.jpg" width="600">
 
+### Lever Prize at Manchester Museum of Science and Industry [RF-Rail-Craft](https://github.com/cheapjack/RF-Rail-Craft)
+
 #### Hardware
 
- * Raspberry Pi Radio control Arduino HAT
+ * Raspberry Pi Radio control Arduino HAT [RF-Craft](https://github.com/cheapjack/RF-Craft)
  * Plug n Play CloudMaker IoT System
  * Custom Shrimp sensor kits
  * Custom Radio Control Arduino Board based on Moteino
