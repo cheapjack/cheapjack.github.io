@@ -105,7 +105,7 @@ Prototype Minecraft pick and place machine
 
 <img src="/images/RFID.jpg" width="600">
 
-### Lever Prize at Manchester Museum of Science and Industry [RF-Rail-Craft](https://github.com/cheapjack/RF-Rail-Craft)
+### [Lever Prize](http://www.fact.co.uk/news-articles/2016/01/fact-wins-the-lever-prize.aspx) at Manchester Museum of Science and Industry [RF-Rail-Craft](https://github.com/cheapjack/RF-Rail-Craft)
 
 #### Hardware
 
