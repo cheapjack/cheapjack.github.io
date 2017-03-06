@@ -43,13 +43,13 @@ Special Thanks to Researcher Dr Mark Wright for his support and vision and the F
 
 #### World On A Card 
 
-RFID card reader for collecting Printcraft models and rendering them in an arcade-style Minecraft kiosk
+Paul Harter built an RFID card reader for collecting Printcraft models and rendering them in an arcade-style Minecraft kiosk
 
 #### TRLN crane
 
 <img src="/images/TRLNCraft.jpg" width="600">
 
-Prototype Minecraft pick and place machine
+Prototype Minecraft pick and place machine by Patrick Fenner
 
 ### Education led activity
 
@@ -57,10 +57,10 @@ Prototype Minecraft pick and place machine
 
  * CloudMaker education programme at Liverpool Studio School
   * 6 sessions of activity in Open Lab format to develop and build the Studio School model of the former Cains Factory site
- * CloudMaker Internet of Things Kits
+ * CloudMaker Internet of Things Shrimp Kits from [ShrimpCraft](https://github.com/cheapjack/ShrimpCraft)
  * Physical Light Switch to Minecraft Light Switch
  * Programme of Family Minecraft Workshops
- * StasisCraft CloudMaker science curriculum workshop series exploring Homeo Stasis through the Internet of Things
+ * StasisCraft CloudMaker science curriculum workshop series exploring Homeostasis through the Internet of Things
 
 #### FACT Activity
 
@@ -79,7 +79,7 @@ Prototype Minecraft pick and place machine
  * Programme of formal education work with [Liverpool Studio School](http://thestudioliverpool.uk/)
   * Exploring modelling of *homeostasis* in Minecraft with the `mcpi` API
 
-#### Minecraft RFID kiosk: 'World On A Card' Social sharing system
+#### Minecraft RFID kiosk: 'World On A Card' Social sharing system by Paul Harter
 
  * RFID Minecraft Identity System
   * Exploring Digital Identity 
@@ -92,20 +92,23 @@ Prototype Minecraft pick and place machine
 ### CloudMaker Public Server
 
  * CloudMaker Server [Documentation and Wiki](https://github.com/cheapjack/CloudMaker/)
- * Live `Dynmap` [server Browser map](http://mc.fact.co.uk:8124) 
+ * Live `Dynmap` [server Browser map](http://89.34.96.47:8125)
 
 <img src="http://40.media.tumblr.com/eca6ba75c5eae5ca4eff0f66996d8a95/tumblr_n6tgqeoef71tytl75o2_1280.jpg" width="600">
 
 ### Minecraft Of Things 
+
+ * [CloudMaker Repo](https://github.com/cheapjack/CloudMaker)
  * Minecraft Of Things [Blog](http://minecraftofthings.tumblr.com)
- * Minecraft Of Things [github Repo](https://github.com/cheapjack/MoT)
+ * Minecraft Of Things Workshops [github Repo](https://github.com/cheapjack/MoT)
+ * [MindCraft](http://github.com/cheapjack/Mindcraft) resources for interacting with MindWave headsets by NeuroSky
  * Minecraft Of Things Workshop activity at Studio School
  * Prototype Minecraft Of Things ['shrimp' kits](https://github.com/cheapjack/ShrimpCraft/blob/master/ShrimpAssembly/CompleteTemperatureSensor.pdf)
  * Prototype shrimp assembly 
 
 <img src="/images/RFID.jpg" width="600">
 
-### [Lever Prize](http://www.fact.co.uk/news-articles/2016/01/fact-wins-the-lever-prize.aspx) at Manchester Museum of Science and Industry [RF-Rail-Craft](https://github.com/cheapjack/RF-Rail-Craft)
+#### [Lever Prize](http://www.fact.co.uk/news-articles/2016/01/fact-wins-the-lever-prize.aspx) at Manchester Museum of Science and Industry [RF-Rail-Craft](https://github.com/cheapjack/RF-Rail-Craft)
 
 #### Hardware
 
@@ -115,7 +118,6 @@ Prototype Minecraft pick and place machine
  * Custom Radio Control Arduino Board based on Moteino
  * Custom WiFi Arduino kit based on SparkFun ESP8266
  * Custom sensor kit (tbc)
- * Distributed through Oomlout? (tbc)
  * Tested at OGGCAMP15
 
 ### Community
@@ -143,7 +145,7 @@ Prototype Minecraft pick and place machine
  * Lesley Taker
  * Gemma May Latham
 
-###Community
+### Community
 
  * Maker Community 
  * TweachCode
@@ -151,7 +153,7 @@ Prototype Minecraft pick and place machine
  * Oggcamp 2015
  * Minecraft Twitter community
 
-###Young Advocates and Server Admins
+### Young Advocates and Server Admins
 
  * Sam Woods now studying A Levels at Studio School
  * Dan now studying A Level Computer Science and Advanced Maths at Studio School
@@ -187,21 +189,13 @@ CloudMaker has had a substantial impact on Ross Dalziels work around game and te
    * [Currently](http://www.currently.no/) at National Museums Liverpool Maritime Museum
    * [Currently](http://www.currently.no/) at [Do It Anyway Festival](http://opensourcingfestivals.eu/events/do-it-anyway-festival-sheffield-uk) in partnership with [Piksel](http://piksel.no/) and [Access Space](http://access-space.org) Sheffield 
 and the  project.
- * Development of RFCrafting a low power radio control game system for interacting with Minecraft and Text Adventures, **PUBLIC INVESTIGATIONS** Arts Council Project with The National Trust
+ * Development of RFCrafting a low power radio control game system for interacting with Minecraft and Text Adventures, **Ok Sparks!** Arts Council Project with The National Trust
  * Prototype [DeadWood](https://github.com/cheapjack/DeadWood) biology research project. Developing pop-up minecraft server that allows scientists and artists to overlay images of fungal and bacterial samples onto real world spaces through Minecraft:Pocket Edition on mobile devices. 
    * Uses a solar powered android smartphone to broadcast a local wifi hotspot to connect to a custom **pocketmine** server for iOS and Android clients to access and explore this game space in real space; in this case the site of the samples. Part of Deadwood workshop at AND2015, Grizedale forest.
  * Prototype MineCraft server for Young Adult Carers for Merseyside E-Health co-design workshop
 
 
-###Documentation
+### Documentation
 <p><iframe src="https://player.vimeo.com/video/92258008" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/92258008">CloudMaker - Making Minecraft Real</a> from <a href="https://vimeo.com/factliverpool">FACT</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-###CloudMaker Concept 
-
-###Co-design Cycles
-
-###Future work
-
-Adventures in IoT book?
-Brainwave crafting kit
 
