@@ -23,7 +23,7 @@ These are my notes on the speakers and thought exercises.
 
 How will this plateau out and impact on the future of invention: there is a surface tier that is extremely wide and broad and then a lesser known clowdy dark matter tier.
 
-####Are there suspect motives behind Utilising Maker-ness? 
+#### Are there suspect motives behind Utilising Maker-ness? 
 
 #### Barcelona makerspace example:
 
@@ -31,7 +31,7 @@ Tensions between the 'community' and what funders want
 
 Case by case is important
 
-###Maintaining diversity
+### Maintaining diversity
 
 <img src="/images/AntiqueSmallEngineClub.jpg" width = "600">
 

@@ -10,11 +10,11 @@ tags: [makers, make, making, kits]
 ## The Kits Just Keep Coming!
 *reference to a recent advertorial newsletter from [proto-pic](https://www.proto-pic.co.uk/)*
 
-### Thoughts on kit cultures for the [#Critical-Kits](http://criticalkits.re-dock.org) symposium
+### Thoughts on kit cultures for the [#Critical-Kits](http://domesticscience.org.uk/criticalkits.html) symposium
 
 <img src="/images/WhatMakesAKit.jpg" width="400">
 
-A while back I attended Laura Pullig's Nature & Technology symposium which I [talked about before](http://cheapjack.github.io/2016/03/23/nature-on-github-technical-communities-in-the-landscape) and one of the things that came up was how Neil Winterburn, Laura and I noticed everyone seemed to be talking about 'kits' and this was the beginning of what's become the [#Critical-Kits](http://criticalkits.re-dock.org) project.
+A while back I attended Laura Pullig's Nature & Technology symposium which I [talked about before](http://cheapjack.github.io/2016/03/23/nature-on-github-technical-communities-in-the-landscape) and one of the things that came up was how Neil Winterburn, Laura and I noticed everyone seemed to be talking about 'kits' and this was the beginning of what's become the [#Critical-Kits](http://domesticscience.org.uk/criticalkits.html) project.
 
 8 years previously I remember discussing with the [Owl Project](http://owlproject.com/) in 2008 how they could sell their [iLogs](http://owlproject.com/iLogs) in the FACT shop but as a kit with a workshop to make them, well before the *maker* meme really had any traction. Arduino's where not really out there; Steve Symons had to build his own platform 'muio' to help make the technology based work the Owls required.
 
@@ -24,11 +24,23 @@ Neil Winterburn jokingly tweeted recently that I'd tied myself to the mast of ma
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In preparation for <a href="https://twitter.com/hashtag/critkits?src=hash">#critkits</a> <a href="https://twitter.com/cheapjack">@cheapjack</a> spent the past 5 years tying himself to the master of maker culture <a href="https://twitter.com/DoESLiverpool">@DoESLiverpool</a> <a href="https://twitter.com/hashtag/weeknotes?src=hash">#weeknotes</a></p>&mdash; Neil Winterburn (@onthepennines) <a href="https://twitter.com/onthepennines/status/803549118681452545">November 29, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><br>
 
- I'm not going to liken myself to Turner here, (and quickly tweeted back a bad github geek pun to try make that clear) but it's coincidental how Turner seems for me to be a pre-cursor for ideas around 'modern-ness' in art. His sceptical interest in emerging 19th century science &  technology, and friendship with people like [Mary Sommerville](https://en.wikipedia.org/wiki/Mary_Somerville) has always fascinated me and although a classic romantic  'auteur/artist/genius' seemed to be trying to access an underlying reality of light and experience, his research efforts travelling and embedding himself to capture this 'experience' of landscapes legendary.
+ I'm not comparing myself to Turner here, (and quickly tweeted back a bad github geek pun to try make that clear!) but it's coincidental how Turner has always been for me to be a pre-cursor for ideas around 'modern-ness' in art. 
+
+His sceptical interest in emerging 19th century science &  technology, and friendship with people like [Mary Sommerville](https://en.wikipedia.org/wiki/Mary_Somerville) has always fascinated me and although a classic romantic  'auteur/artist/genius' seemed to be trying to access an underlying reality of light and experience, his research efforts travelling and embedding himself to capture this 'experience' of landscapes legendary.
 
 <img src="/images/critkits1.jpg" width="400">
 
-I do think that many artists interested in using technology  try to build deeper relationships with the wider technical cultures around it; and this *is* a kind of 'mast tying' and a pretty standard form of artist's research. When I was interested in sound based art I tried to engage with that culture through [SoundNetwork](http://soundnetwork.org.uk) and began to meet artists like the Owl Project. Working with them was a key moment for me, their practice of research and independent making and building their own 'systems' for making their work made complete sense.
+I do think that many artists interested in using technology often try to build deeper relationships with the wider technical cultures around it; and this *is* a kind of 'mast tying' and a pretty standard form of artist's research.
+
+Equally I think there is a tendancy to refer and re-present (rather than *represent*) elements or speculations around a technology or scientific discovery as an artistic response and in some case as a general form of practice. I think this is ethically suspect and can lead to ultimately ineffectual work; the classic is 
+
+ * Speculate on the implications of blah blah
+ * Start a dialogue around blah blah
+ * Taking blah blah as a starting point the artist uses a fictional meta narrative alongisde the real blah blah
+
+Responding to a technical culture through research or some form of participation in that culture even on a superficial level, rather than using technical facts out of context as a subject I think leads to more complex work that can be built upon
+
+When I was interested in sound based art I tried to engage with that culture through [SoundNetwork](http://soundnetwork.org.uk) and began to meet artists like the Owl Project. Working with them was a key moment for me, their practice of research and independent making and building their own 'systems' for making their work made complete sense.
 
 They did not just 'use' technology they made themselves part of it's culture through designing and building; to generate a 'kit' for themselves to further their work. The [muio](http://muio.org/muio_in) framework, performances and transparent methods for how they made things embodied their practice.  But they did this with a genuine admiration for technical culture not an exploitative intervention approach.
 
