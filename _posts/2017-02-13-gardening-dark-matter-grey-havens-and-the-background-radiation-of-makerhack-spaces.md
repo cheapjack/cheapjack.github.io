@@ -7,6 +7,8 @@ tags: [Redistributed Manufacturing, Makerspaces]
 ---
 {% include JB/setup %}
 
+<img src="/images/DasLabor.jpg" width="600">
+
 This was going to be one of my last rambles on makerspaces. But having started this post in Feb 2017, I haven't been able to finish. A mysterious gravity keeps pulling me back to edit.
 
 In July 2017 I moved temporarily from my permanent desk at [DoES Liverpool](http://doesliverpool.com) as they consider their [move to new premises](https://doesliverpool.com/business/does-liverpool-wants-to-move/) having spent a good 4 years benefitting from my associations with DoES and from there, a wider maker-space/hackerspace community. From [Public Engineering](http://cheapjack.github.io/2014/06/18/publicengineering-is-a-response-to-bochum-in-the) with [DasLabor](https://wiki.das-labor.org) to numerous [Minecraft](http://cheapjack.github.io/EverythingMinecraft) flavoured projects like [CloudMaker](http://github.com/cheapjack/CloudMaker/), [RF-Craft](http://github.com/cheapjack/RF-Craft), [ShrimpCraft](https://github.com/cheapjack/ShrimpCraft), [Rail-RF-Craft](https://github.com/cheapjack/RF-Rail-Craft) and most recently the epic [Milecastles](http://milecastles.uk) project for [DomesticScience](http://domesticscience.org.uk).
