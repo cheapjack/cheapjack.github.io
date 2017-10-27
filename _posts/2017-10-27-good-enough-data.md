@@ -161,9 +161,9 @@ I also made some resources for Domestic Science to help artists participate in d
 
 [Interactive Non Fiction Resources](https://gitlab.com/DomesticScience/InteractiveNonFiction)
 
-### From Bertand Russell: Objective certainty and a Theatre Of Relativity
+### Bertand Russell: Objective certainty and a Theatre Of Relativity
 
-#### Click here to listen to a presentation of [The ABC of Relativity](http://domesticscience.org.uk/games/abcOfRelativity.html)
+#### Click here to listen to a presentation of [The ABC of Relativity](http://domesticscience.org.uk/games/abcOfRelativity/abcOfRelativity.html)
 
 Finally going back to the intoxication that objective science can generate for artist and scientist alike I discovered an archive of Bertrand Russells popularisation of relativity, read by old school theatre actor, Derek Jakobi. 
 
@@ -171,9 +171,12 @@ There's no embodied sharing here, knowledge practices or participatory learning.
 
 I've made a presentation of it online above but plan to place it in one of our Domestic Science Twine game arcades which you can [find out more about here](http://domesticscience.org.uk/InF.html) 
 
-It's well worth a listen and then try think about what your objective reality map looks like. And this from Wittgensteins tutor who Chris Batemen reminds us possibly mis-interpreted his greatest pupil in a way that may have had huge implications for the mythologies of science as a science of salvation.
+It's well worth a listen and then try think about what your objective reality map looks like. Chris Batemen reminds us that Russell possibly mis-interpreted his greatest pupil Wittgenstein in a way that may have had huge implications for the mythologies of science as a science of salvation.
 
-It feels like John Berger's popularisation of critical art theory
+Its hard to be critical of this; its undeniable how relativity changed the nature of our reality in the same way as  quantum mechanics and supersymmetry have. To not be intoxicated and changed by it's key thought experiments is impossible.
 
-Its hard to be critical of this; its undeniable how relativity changed the nature of our reality in the same way as  quantum mechanics and supersymmetry have. To not continue to be intoxicated and changed by it's key thought experiments is impossible.
+But how he ends this celebration of thought and re-intepretation of observations rings just slightly off somehow now; in the same way that claims for data's power seems like it needs tempering and contextualising. They are still only models and maps for the world: vast datasets and space-time are not a reality to be encountered directly;
 
+*"They are actually metaphysical sketches, ambitious maps of how all reality is supposed to work, guiding visions, sytems of direction for the rest of our ideas."* -**Mary Midgley**
+
+Without critical and social calibration they may well be warping the path we take.
