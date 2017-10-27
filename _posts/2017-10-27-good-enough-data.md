@@ -130,7 +130,7 @@ Data should be embedded into some form of social practice in order to make somet
 
 Sam revealed a brilliant quote from John Hartnup *On the Importance of Testing Chronometers before they are used at Sea* writing in 1857. For me it goes way back to the basics of a sensor or a datasets responsibility:
 
-"(the engineer) is called upon almost daily to exercise his judgement as to the degree of confidence which he is justified in placing in his instruments and a knowledge of the imperfections to which they are liable is the only thing that can guide him to to correct conclusions in these, to him, very important matters"
+***"(the engineer) is called upon almost daily to exercise his judgement as to the degree of confidence which he is justified in placing in his instruments and a knowledge of the imperfections to which they are liable is the only thing that can guide him to to correct conclusions in these, to him, very important matters"***
 
 # Retail Therapy and Inter-operability
 
@@ -149,7 +149,7 @@ Simply it was a lofi attempt at some simple questions.
  * Can we see how we construct meaning from it? 
  * Does it make a difference when you measure data yourself and plot it on a graph through sewing?
 
-I explored this further with [MCQN.net](http://mcqn.com/) (engineer for the dustbox) and Gemma May Latham for [Co-Tidal](http://github.com/cheapjack/Co-Tidal) and we did generate many diverse and fascinating conversations with people from basic tide timetables and what the coast meant to them, and looking back placing these conversations alongside the tide tables that triggered them and the sewn artefacts
+I explored this further with [MCQN.net](http://mcqn.com/) (engineer for the dustbox) and Gemma May Latham for [Co-Tidal](http://github.com/cheapjack/Co-Tidal) and although we certainly didnt get to the bottom of how reliable our data was, we did generate many diverse and fascinating conversations with people from basic tide timetables and what the coast meant to them, and looking back publishing these conversations alongside the tide tables that triggered them and the sewn artefacts could be something worth while.
 
 ## Some outcomes
 
