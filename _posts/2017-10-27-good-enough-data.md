@@ -11,6 +11,7 @@ tags: [data, open data, domestic science]
 
 <img width="600" src="http://78.media.tumblr.com/3107208a44ad8323ce8cd4998487b97b/tumblr_mt805lzN7Q1st479ho1_1280.png">
 
+```
 "What we call the real world is the totality of existence and is at best.. a necessary element of our thinking processes – it is not the name of something we can directly encounter..."
 
 "Aligning objectivity with reliability, and subjectivity with error, is to simultaneously misunderstand the core qualities of skilful practices while artificially canonising scientific techniques with an unwarranted infallibility that is thoroughly undeserved."
@@ -18,7 +19,7 @@ tags: [data, open data, domestic science]
 "Accepting my understanding of knowledge as a practice, we can see that the kind of subjective knowledges I have suggested here i.e. building, repairing, baking, painting, harmonising – not to mention tree climbing for squirrels – are genuine knowledge practices." 
 
 "They have the reliability that is the sign of knowledge, they produce facts as a side-effect of this reliability, and they are sustained by networks of practitioners... it begins to seem as if the adjective ‘subjective’ has become empty and vacuous: the knowledge of beings is knowledge. Objective knowledge – the knowledge teased from objects – is just a special case of knowledge, not its paradigm case."
-
+```
 *Wikipedia Knows Nothing* - Chris Bateman
 
 ## The Kitchen Sink Theatre of Measurement
@@ -163,15 +164,15 @@ I also made some resources for Domestic Science to help artists participate in d
 
 ### From Bertand Russell: Objective certainty and a Theatre Of Relativity
 
+#### [The ABC of Relativity](http://domesticscience.org.uk/games/abcOfRelativity.html)
+
 Finally going back to the intoxication that objective science can generate for artist and scientist alike I discovered an archive of Bertrand Russells popularisation of relativity, read by old school theatre actor, Derek Jakoby. 
 
 There's no embodied sharing here, knowledge practices or participatory learning. However it draws you in and it *does engage*. And perhaps as much as digital making would and its as much an encounter with science that illustrates the vast potential for change through the interpretation of observations as anything in the 21st century can provide. 
 
 It's well worth a listen and then try think about what your objective reality map looks like. And this from Wittgensteins tutor who Chris Batemen reminds us possibly mis-interpreted his greatest pupil in a way that may have had huge implications for the mythologies of science as a science of salvation.
 
-It feels like John Berger's popularisatin of critical art theory
-
-Follow this link to hear [The ABC of Relativity](domesticscience.org.uk/games/abcOfRelativity.html)
+It feels like John Berger's popularisation of critical art theory
 
 Its hard to be critical of this; its undeniable how relativity changed the nature of our reality in the same way as  quantum mechanics and supersymmetry have. To not continue to be intoxicated and changed by it's key thought experiments is impossible.
 
