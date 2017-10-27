@@ -24,18 +24,17 @@ tags: [data, open data, domestic science]
 
 ## The Kitchen Sink Theatre of Measurement
 
-Last month I spent some time with Sam Skinner, Kei Kreutler, Helen Pritchard, Jennifer Gabrys, Neil Winterburn and Hwa Young Jung at his "Theatre of Measurement event" at FACT reflecting on *"observation culture"* in the [The New Observatory](http://www.fact.co.uk/projects/the-new-observatory.aspx) exhibition at FACT curated by Hannah Redler Hawes (from the Open Data Institute) and artist researcher, [Sam Skinner](http://samskinner.net/). I was presenting our [Critical kits](http://criticalkits.re-dock.org/) work in the context of Re-Dock's practice, alongside presentations from artists and practitioners involved in what I think was a really important exhibition.
+Last month I spent some time with Sam Skinner, Kei Kreutler, Helen Pritchard, Jennifer Gabrys, Neil Winterburn and Hwa Young Jung at the [Theatre of Measurement event](http://www.fact.co.uk/whats-on/current/the-theatre-of-measurement.aspx) at FACT reflecting on *"observation culture"* in the [The New Observatory](http://www.fact.co.uk/projects/the-new-observatory.aspx) exhibition at FACT curated by Hannah Redler Hawes (from the Open Data Institute) and artist researcher, [Sam Skinner](http://samskinner.net/). I was presenting our [Critical kits](http://criticalkits.re-dock.org/) work in the context of Re-Dock's practice, alongside presentations from artists and practitioners involved in what I think was a really important exhibition.
 
 The event left everyone with much food for thought and since then, my reflections on it have been heavily influenced by some recent reading of the work of Chris Batemen, MacKenzie Wark and others. 
 
-It's also resonated with my own work around Maker and IoT culture and as Domestic Science. [Domestic Science](http://domesticscience.org.uk) is a space for myself and artist colleagues Hwa Young Jung and Glenn Boulter's explorations of 'domestic' knowledge with respect to networked culture; the emerging cultures of data and connectivity that are now part of the fabric of domestic life, the *'lifeworld'* of the everyday. 
+It's also resonated with my own work around Maker and IoT culture and as Domestic Science. [Domestic Science](http://domesticscience.org.uk) is a space for myself and artist colleagues Hwa Young Jung and Glenn Boulter's explorations of 'domestic' knowledge with respect to networked culture; the emerging cultures of data and connectivity that are now part of the fabric of domestic life, the *'lifeworld'* of the everyday.
 
+## Domestic Science
 
-## Domestic Science
+<img width="300" src="http://domesticscience.org.uk/images/EasterClass1.png">
 
-<img width="600" src="http://domesticscience.org.uk/images/EasterClass1.png">
-
-It's not uncommon for an average family to be aware of the concept of data collection; it inspires both indifference, fear and anxious hopes for job prospects, especially in the context of wildly ambitious claims for a tech literate post `code-club` society for the future. We see this 'domestic' knowledge as the actual lived data literacy that's part of our supposed post-internet knowledge economy. 
+It's not uncommon for an average family to be aware of the concept of data; it inspires both indifference, fear and anxious hopes for job prospects, especially in the context of wildly ambitious claims for a tech literate post `code-club` society for the future. We see this 'domestic' knowledge as the actual lived data literacy that's part of our supposed post-internet knowledge economy. 
 
 Clearly its a play and self conscious update on what constituted domestic science in the UK in the mid 20th century; but it's no longer how to keep clothes clean or successful baking, but something else. 
 
@@ -45,7 +44,7 @@ I see this domestic perspective as at least part of the context of the show in F
 
 *"(invitation for) visitors to consider how everyday life is a subject of observation in which we all perform as our own micro-observatories, or ‘observatories of ourselves’. It asks us to reassess our roles as active citizens within a ‘surveillance’ culture,"*
 
-FACT is an influential art institution, and like similar organisations, it puts forward a strong rhetoric and remit for public service, engagement and access so thinking of it as a way of challenging domestic knowledge is important. I see much 'creative tech' exhibition work as the domestic end or *UX* of research; how it's actually experienced outside of the specialist knowledge networks of artists working in this field; much more so than it being an artform in a way.
+FACT is an influential art institution, and like similar organisations, it puts forward a strong rhetoric and remit for public service, engagement and access so thinking of it as a way of challenging domestic knowledge is important. I see much 'creative tech' exhibition work as the domestic end or *UX* of research; how it's actually experienced outside of the specialist knowledge networks of researchers and artists working in this field; much more so than it being an artform in a way.
 
 ## Observation Culture
 
@@ -71,7 +70,7 @@ This and the Dustbox project by [Citizen Sense](https://citizensense.net/) seems
 
 ## What is Measurement? What is a fact?
 
-I think of our current situation as a *data* culture; another extension of *observation culture* with it's own vertigo. I use it to broadly talk of the post-internet culture of the ' over developed' world where the internet and it's infrastructure of services and economies is common place. Its a similar description of the information age or networked world, but its more descriptive in that it acknowledges a more abstracted idea of data; as a commodity and resource that impacts on both our everyday experience and our engineering and hacking of that world.
+I think of our current situation as a *data* culture; another extension of *observation culture* with it's own vertigo. I use it to broadly talk of the post-internet culture of the 'over-developed' world where the internet and it's infrastructure of services and economies is common place. Its a similar description of the information age or networked world, but its more descriptive in that it acknowledges a more abstracted idea of data; as a commodity and resource that impacts on both our everyday experience and our engineering and hacking of that world.
 
 Chris Bateman's *Wikipedia Knows Nothing* which despite it's inflammatory title which could be read as antagonistic to data culture and valuable criticism of the ethics of anonomous peer review, I've found to be a handy plain speaking frame and primer for considering the Theatre of Measurement and wider data culture the New Observatory speculates around. It also touches all manner of epistemological thought, and the nature of how we 'make' knowledge.
 
@@ -81,7 +80,7 @@ I've found myself at times intoxicated by a fervour for data's creative potentia
 
 Am I making subjective experiences to further validate objective data and established scientific method with no critical sensibility? Am I only playing with science literacy or am I some kind of methodological re-seller or STEM promoter? Do I actually understand what data is?
 
-It's not inconsequential that Chris is a game developer in addition to a philosopher, and it's heartening to see someone in game culture (something as much part of network culture as embedded systems, IoT communities and reddit dialogues) applying critical thought and wider philosphical practice to the actual implications of networked knowledge, rather than complacently accepting the **terms and conditions** of technology as a complex inevitable but essentially neutral or benevolent conduit for traditional content we know in our inherited "Guthenberg minds" as text or video.
+It's not inconsequential that Chris is a game developer in addition to a philosopher, and it's heartening to see someone in game culture (something as much part of network culture as embedded systems, IoT communities and reddit dialogues) applying critical thought to the actual implications of networked knowledge, rather than complacently accepting the **terms and conditions** of technology as a complex, inevitable, but essentially neutral or benevolent conduit for traditional content, that we know in our inherited "Guthenberg minds" as text or video.
 
 I was struck by his reminder of knowledge as a ***practice*** and it's relationship to so called *objective* reality; in particular a thought experiment over how we build up a 'picture' of the 'real' world: we often have of a map of the outside world and how we move within and relate to it and we often think of that like an  'objective' sandbox we all play within in a similar way. 
 
@@ -105,7 +104,7 @@ Lets be honest with ourselves; The temperature reading could indicate suspected 
 
 [Kei](http://kei.bio/)'s work with the [Libre space project](https://libre.space/) seemed to playfully jump around this space while allowing real participation and not just speculative gestues.
 
-<img width="600" src="http://domesticscience.org.uk/data/c_k1.png">
+<img width="300" src="http://domesticscience.org.uk/data/c_k1.png">
 
 ## Critical Calibration
 
@@ -135,7 +134,7 @@ Sam revealed a brilliant quote from John Hartnup *On the Importance of Testing C
 
 # Retail Therapy and Interoperability
 
-<img width="600" src="http://domesticscience.org.uk/data/c_k2.png">
+<img width="300" src="http://domesticscience.org.uk/data/c_k2.png">
 
 Despite all this it's clear that privileged objective knowledge is beyond doubt entirely vital. It goes without saying that climate science despite denial at the highest level remains one of the most important witnesses for our contemporary society, with or without a contextual calibration. It may be the only qualifying witness to a limit and check on the rampant exploitation of every aspect of human life and essential to our survival as a culture.
 
