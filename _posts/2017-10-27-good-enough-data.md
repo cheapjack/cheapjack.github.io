@@ -94,7 +94,7 @@ I'd like to think a contemporary artistic practice that is concerned with the us
 
 As an aside, what I think is interesting is that this hard to shake binary, the *picture* that captures us between subjective and objective is often confused with the essential differences between 'science' and 'art'.
 
-## A Multiverse of Knowledge
+## A Multiverse of Knowledge
 
 Knowledge is knowledge; it all can have value; an artist's magical invocation at the site of Bidston observatory is as 'valid' as a temperature gauge reading recorded on paper or EEPROM; how and why meaning is derived from it or acted upon is something else entirely and far more political. 
 
@@ -104,7 +104,7 @@ Lets be honest with ourselves; The temperature reading could indicate suspected 
 
 [Kei](http://kei.bio/)'s work with the [Libre space project](https://libre.space/) seemed to playfully jump around this space while allowing real participation and not just speculative gestues.
 
-<img width="300" src="http://domesticscience.org.uk/data/c_k1.png">
+<img width="300" src="http://domesticscience.org.uk/data/c_k3.png">
 
 ## Critical Calibration
 
@@ -132,13 +132,13 @@ Sam revealed a brilliant quote from John Hartnup *On the Importance of Testing C
 
 "(the engineer) is called upon almost daily to exercise his judgement as to the degree of confidence which he is justified in placing in his instruments and a knowledge of the imperfections to which they are liable is the only thing that can guide him to to correct conclusions in these, to him, very important matters"
 
-# Retail Therapy and Interoperability
+# Retail Therapy and Inter-operability
 
 <img width="300" src="http://domesticscience.org.uk/data/c_k2.png">
 
 Despite all this it's clear that privileged objective knowledge is beyond doubt entirely vital. It goes without saying that climate science despite denial at the highest level remains one of the most important witnesses for our contemporary society, with or without a contextual calibration. It may be the only qualifying witness to a limit and check on the rampant exploitation of every aspect of human life and essential to our survival as a culture.
 
-Interoperability is a theme our event was supposed to explore but to be fair we never quite made that happen. I actually think that the interoperability of data is a bit of an assumption, if not a 'utility myth' and more often than not an impossible ethic to strive for the engineers of sensors and data architecture for anyone involved with data. Every Dewey Decimal, SQL, XML, Linked data and blockchain are like new attempts at inter-operability. 
+Inter-operability is a theme our event was supposed to explore but to be fair we never quite made that happen. I actually think that the interoperability of data is a bit of an assumption, if not a 'utility myth' and more often than not an impossible ethic to strive for the engineers of sensors and data architecture for anyone involved with data. Every Dewey Decimal, SQL, XML, Linked data and blockchain are like new attempts at inter-operability. 
 
 Lets go back to my canal workshop example I mentioned earlier. I designed a workshop intended to further the understanding of data collection and the construction of meaning from data through a participatory means. I saw this as a form of data and observation literacy; not necessarily an artistic endeavour or useful inter-operable data.
 
@@ -163,11 +163,13 @@ I also made some resources for Domestic Science to help artists participate in d
 
 ### From Bertand Russell: Objective certainty and a Theatre Of Relativity
 
-#### [The ABC of Relativity](http://domesticscience.org.uk/games/abcOfRelativity.html)
+#### Click here to listen to a presentation of [The ABC of Relativity](http://domesticscience.org.uk/games/abcOfRelativity.html)
 
-Finally going back to the intoxication that objective science can generate for artist and scientist alike I discovered an archive of Bertrand Russells popularisation of relativity, read by old school theatre actor, Derek Jakoby. 
+Finally going back to the intoxication that objective science can generate for artist and scientist alike I discovered an archive of Bertrand Russells popularisation of relativity, read by old school theatre actor, Derek Jakobi. 
 
 There's no embodied sharing here, knowledge practices or participatory learning. However it draws you in and it *does engage*. And perhaps as much as digital making would and its as much an encounter with science that illustrates the vast potential for change through the interpretation of observations as anything in the 21st century can provide. 
+
+I've made a presentation of it online above but plan to place it in one of our Domestic Science Twine game arcades which you can [find out more about here](http://domesticscience.org.uk/InF.html) 
 
 It's well worth a listen and then try think about what your objective reality map looks like. And this from Wittgensteins tutor who Chris Batemen reminds us possibly mis-interpreted his greatest pupil in a way that may have had huge implications for the mythologies of science as a science of salvation.
 
