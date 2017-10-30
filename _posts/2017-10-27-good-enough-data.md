@@ -106,7 +106,7 @@ Lets be honest with ourselves; The temperature reading could indicate suspected 
 
 <img width="300" src="http://domesticscience.org.uk/data/c_k3.png">
 
-## [Critical Calibration](#CriticalCalibration)
+## [Critical Calibration](#critical-calibration)
 
 Aside from triggering a week long sojourn around ancient Cartesian problems, maybe most useful to observation culture is Chris's work thinking of **facts** or **measurements** as only artefacts or residues of knowledge practices: the notion that science and indeed observational culture altogether is about constructing *reliable witnesses* not reality itself, just a specialist set of encounters with it normally through highly specialised objects.
 
