@@ -34,7 +34,7 @@ It's also resonated with my own work around Maker and IoT culture and as Domesti
 
 <img width="300" src="http://domesticscience.org.uk/images/EasterClass1.png">
 
-It's not uncommon for an average family to be aware of the concept of data; it inspires both indifference, fear and anxious hopes for job prospects, especially in the context of wildly ambitious claims for a tech literate post `code-club` society for the future. We see this 'domestic' knowledge as the actual lived data literacy that's part of our supposed post-internet knowledge economy. 
+It's not uncommon for an average family to be aware of the concept of data; it inspires both indifference, fear and anxious hopes for job prospects, especially in the context of wildly ambitious claims for a tech literate post `code-club` society for the future. I see this 'domestic' knowledge as the actual lived data literacy that's part of our supposed post-internet knowledge economy. 
 
 Clearly its a play and self conscious update on what constituted domestic science in the UK in the mid 20th century; but it's no longer how to keep clothes clean or successful baking, but something else. 
 
@@ -86,7 +86,7 @@ I was struck by his reminder of knowledge as a ***practice*** and it's relations
 
 But verifiable science itself makes that map not what we think it is; relativity and later the quantum world makes that obvious but still, that objective 'sandbox' image of the world we all share is powerful and in some ways our technology can reinforce it.
 
-What is more useful perhaps is to think that there is a plurality of 'real worlds'; a multiverse of encounters of observations. Of course the specialist practice of verifiable observational science is a big importnant part of that.
+What is more useful perhaps is to think that there is a plurality of 'real worlds'; a multiverse of encounters of observations. Of course the specialist practice of verifiable observational science is a big important part of that.
 
 I think the show and the artists involved and some of my work with Re-Dock, in particular the [Critical Kits](http://criticalkits.re-dock.org/) project with Domestic Science, through the unpicking and re-presentation of observation and measurement cultures opens up what Chris refers to a plurality of 'real' worlds and an interplay of what is often thought of as a strict dichotomy (especially when we think of reliability) of 'objective' and 'subjective' forms of knowledge. 
 
