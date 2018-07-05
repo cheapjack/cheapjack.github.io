@@ -9,8 +9,8 @@ tags: [CriticalKits, DIY, Bio]
 
 The first half of this year has been going in two directions: business as usual with [Domestic Science](http://twitter.com/DomesticaSci) completing the [Class Aves](http://domesticscience/ClassAves.html) commission at Liverpool Central library and proposing some sustained practice based PhD research extending my part of the [Critical Kits](http://criticalkits.re-dock.org/) project.
 
-Over the past 6 months myself and some very generous friends and peers helped me pull this together. It extends CriticalKits as a methodology in the context of bio-technology and post-maker culture to improve scientific literacy, agency and resilience alongside participatory and socially engaged art practice. I’m delighted to discover that this has been successfully accepted by Lancaster Institute of Contemporary Arts(LICA) and a Faculty or Arts and Social Sciences Research
-Scholarship (FASS) to support this. I’ll be working with Jen Southern and a supervisory team and Dr Rod Dillon at the Biomedical and Life Sciences at Lancaster University, working on aspects of communication, chemo-taxis and movement in biological systems and building on Rod’s ongoing work embedding artistic practices in research and teaching. I’ll also be working with a sub-set of the Wearable technology interest group at makerspace DoESLiverpool and more settings down the
+Over the past 6 months myself and some very generous friends and peers helped me pull this together. It extends CriticalKits as a methodology in the context of bio-technology and post-maker culture to improve scientific literacy, agency and resilience alongside participatory and socially engaged art practice. I’m delighted to discover that this has been successfully accepted by Lancaster Institute of Contemporary Arts (LICA) and have been awarded a Faculty or Arts and Social Sciences Research
+Scholarship (FASS) to support this. I’ll be working with Jen Southern and a supervisory team including Dr Rod Dillon at the Biomedical and Life Sciences at Lancaster University, working on aspects of communication, chemo-taxis and movement in biological systems and building on Rod’s ongoing work embedding artistic practices in research and teaching. I’ll also be working with a sub-set of the Wearable technology interest group at makerspace DoESLiverpool and more settings down the
 line.
 
 Critical Kits for me last year consolidated years of work, practice based research and reflections across technical and maker culture, IoT, agency, education, technology and socially engaged artistic practice, organised with a long admired group of socially engaged artists at [Re-Dock](http://re-dock.org) and bringing together a fascinating group of artist and maker peers with their own unique takes on kit forms. Our fledgling event and
@@ -32,7 +32,7 @@ whether any of it could be of use to others and allowed me to start to see proje
 
 Bottom line; kits and how we make and use them could be more important than we first think. They might help how we talk teach and do science, technology and art sensibly without persistent mistakes or claims for what we expect of them, especially with respect to art and science working alongside each other. Normally I would use the word collaboration here, but that gets used so much it’s almost lost its value.
 
-I expect to find nothing too profound; after all making kits has been around since the enlightenment and the dawn of scaling production; they are at once highly present in culture and yet barely noticed in the mainstream or the highly unique interactive art market, despite the ‘kit’ approach, packaging up materials helpfully, is what makes most projects work at all. I’ve a feeling building on Critical kits. I will find something useful about art and science or at least what is not useful. 
+I expect to find nothing too profound; after all making kits has been around since the enlightenment and the dawn of scaling production; they are at once highly present in culture and yet barely noticed in the mainstream or the highly unique interactive art market, despite the ‘kit’ approach, packaging up materials helpfully, is what makes most projects work at all. I’ve a feeling building on Critical kits, I will find something useful about doing art and science or at least what is not useful. 
 
 My take on this research so far, is that some of the concerns shared in my work, Critical Kits and Domestic Science, needs some further background reading.
 
@@ -66,7 +66,7 @@ Kits, if they manage to intervene and affect things in the world then maybe they
 
 This is pure handy conjecture; I happen to be thinking about kits and modular abstractions at the same time as the history of the philosophy of science, but it’s worth noting that just because a theoretical entity like an electron exists it doesn’t mean all theory about electrons are correct. Just because you’ve made a kit to talk to fascists and someone uses it, this doesn’t mean your theory that everyone is a fascist is correct. 
 
-##Chas or Dave: Artist and Maker Barricades
+## Chas or Dave: Artist and Maker Barricades
 
 I think we may have started with unfair assumptions about both artists and makers differences through how they used kits which we tried to play with in the [CritcalKit Trump’s kit](https://shop.re-dock.org/product/critical-kits-trumps-card-game/) scoring system. So here are some assumptions that I’ll be picking at.
 
