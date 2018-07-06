@@ -7,7 +7,7 @@ tags: [CriticalKits, DIY, Bio]
 ---
 {% include JB/setup %}
 
-<img src="/images/bioplastic.png" width="600">
+<img src="/images/bioplastic.jpg" width="600">
 
 The first half of this year has been going in two directions: business as usual with [Domestic Science](http://twitter.com/DomesticaSci) completing the [Class Aves](http://domesticscience.org.uk/ClassAves.html) commission at Liverpool Central library and proposing some sustained practice based PhD research extending my part of the [Critical Kits](http://criticalkits.re-dock.org/) project.
 
