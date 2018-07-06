@@ -7,13 +7,15 @@ tags: [CriticalKits, DIY, Bio]
 ---
 {% include JB/setup %}
 
+<img src="/images/bioplastic.png" width="600">
+
 The first half of this year has been going in two directions: business as usual with [Domestic Science](http://twitter.com/DomesticaSci) completing the [Class Aves](http://domesticscience/ClassAves.html) commission at Liverpool Central library and proposing some sustained practice based PhD research extending my part of the [Critical Kits](http://criticalkits.re-dock.org/) project.
 
 Over the past 6 months myself and some very generous friends and peers helped me pull this together. It extends CriticalKits as a methodology in the context of bio-technology and post-maker culture to improve scientific literacy, agency and resilience alongside participatory and socially engaged art practice. I’m delighted to discover that this has been successfully accepted by Lancaster Institute of Contemporary Arts (LICA) and have been awarded a Faculty or Arts and Social Sciences Research
 Scholarship (FASS) to support this. I’ll be working with Jen Southern and a supervisory team including Dr Rod Dillon at the Biomedical and Life Sciences at Lancaster University, working on aspects of communication, chemo-taxis and movement in biological systems and building on Rod’s ongoing work embedding artistic practices in research and teaching. I’ll also be working with a sub-set of the Wearable technology interest group at makerspace DoESLiverpool and more settings down the
 line.
 
-Critical Kits for me last year consolidated years of work, practice based research and reflections across technical and maker culture, IoT, agency, education, technology and socially engaged artistic practice, organised with a long admired group of socially engaged artists at [Re-Dock](http://re-dock.org) and bringing together a fascinating group of artist and maker peers with their own unique takes on kit forms. Our fledgling event and
+Critical Kits for me last year consolidated years of work, practice based research and reflections across technical and maker culture, IoT, agency, education, technology and socially engaged artistic practice, organised with a long admired group of socially engaged artists at [Re-Dock](http://re-dock.org) and bringing together a fascinating group of artist and maker peers with their own unique takes on kit forms. Our [symposium](http://criticalkits.re-dock.org/data/heroes.html) and
 [book](https://shop.re-dock.org/product/critical-kits-and-how-we-use-them/) made us realise reflecting on ‘kit-culture’ pulled together thinking and practice about the value of complex narratives, community, shared knowledge, art, science, technology and embodied learning. More than that it made us reflect on how we want to interact with the world and the politics in the decisions we make to do that, with what materials, with whom and how. This seems useful to both our own
 practices as artists, makers, publishers, small scale manufacturers, educators and researchers.
 
@@ -28,6 +30,8 @@ to new possibilities of where this framework could be valuable beyond tech led p
 It also made me begin to understand why people make kits and put it in both historical and contemporary context. Neil Winterburn and I initially focussed on the idea that kit making had the potential to tell much more complex contextual stories about forms of artistic practice and making that use technology which a nicely made HD video may not be able to get across. This really sparked an awareness of how I want to work, why I work at certain scales and what it is I actually do and
 whether any of it could be of use to others and allowed me to start to see projects people are doing more clearly.
 
+<img src="/images/LivingWithGulls.png" width="600">
+
 ## A response to crisis
 
 Bottom line; kits and how we make and use them could be more important than we first think. They might help how we talk teach and do science, technology and art sensibly without persistent mistakes or claims for what we expect of them, especially with respect to art and science working alongside each other. Normally I would use the word collaboration here, but that gets used so much it’s almost lost its value.
@@ -36,8 +40,10 @@ I expect to find nothing too profound; after all making kits has been around sin
 
 My take on this research so far, is that some of the concerns shared in my work, Critical Kits and Domestic Science, needs some further background reading.
 
-How we employ technology to navigate, think of and act in the world in a reasonable fair way that helps humans and non-humans is the concern. 
-By reading I also do not just mean reading text or literature, but other places and practices and ways of thinking and doing. It's not a retreat to academia in order to validate Critical kits but to reveal something about their value through sustained research. The first Critical Kits publication only began to consider wider literatures (again not books necessarily, damn our Gutenberg minds) that my research will feedback into the wider project. 
+How we employ technology to navigate, think of and act in the world in a reasonable fair way that helps humans and non-humans is the concern. By reading I also do not just mean reading text or literature, but other places and practices and ways of thinking and doing. It's not a retreat to academia in order to validate Critical kits but to reveal something about their value through sustained research. The first Critical Kits publication only began to consider wider literatures (again not books necessarily, damn our Gutenberg minds) that my research will feedback into the wider project. 
+
+<img src="/images/GullCyborgs.png" width="600">
+
 ## What is a kit?
 
 A kit represents some kind of convenient arrangement of materials that provide a useful outcome, usually with some kind of scaled distribution so there’s always a social aspect. A key part of a kit is to provide some sort of utility or intervention. By intervention I don’t mean the visual art ‘intervention’ in the non-art world, or interactive art or display, I mean doing something that causes a response, not representing or modelling something but something that causes an actual
@@ -66,6 +72,8 @@ Kits, if they manage to intervene and affect things in the world then maybe they
 
 This is pure handy conjecture; I happen to be thinking about kits and modular abstractions at the same time as the history of the philosophy of science, but it’s worth noting that just because a theoretical entity like an electron exists it doesn’t mean all theory about electrons are correct. Just because you’ve made a kit to talk to fascists and someone uses it, this doesn’t mean your theory that everyone is a fascist is correct. 
 
+<img src="/images/GULLS4LIFE.png" width="600">
+
 ## Chas or Dave: Artist and Maker Barricades
 
 I think we may have started with unfair assumptions about both artists and makers differences through how they used kits which we tried to play with in the [CritcalKit Trump’s kit](https://shop.re-dock.org/product/critical-kits-trumps-card-game/) scoring system. So here are some assumptions that I’ll be picking at.
@@ -82,10 +90,10 @@ Critical kits wants to get beyond these assumptions. Exploit and encourage learn
 
 I love kits! But my research wonders whether kits applied to *everything* in the same way may not be ideal and that another approach *critical* kits may be more valuable
 
-***“Kits are convenient and attractive packages for doing and knowing; they are mobile, reproducible and capable of distributing power, knowledge and agency. Artists and scientists alike use them. But this convenience hides a problem: by abstracting or simplifying complicated components or concepts into kits for mobility and ease of use they remove opportunities for deeper nuanced experiences of understanding and learning. When used to fix a puncture or implement a feature in software
+*“Kits are convenient and attractive packages for doing and knowing; they are mobile, reproducible and capable of distributing power, knowledge and agency. Artists and scientists alike use them. But this convenience hides a problem: by abstracting or simplifying complicated components or concepts into kits for mobility and ease of use they remove opportunities for deeper nuanced experiences of understanding and learning. When used to fix a puncture or implement a feature in software
 this can be easily overlooked, but when used to understand difficult concepts or contexts in art and science, or address concerns around transformational technology like the recent engineering of complex biomedical living systems they become potentially a major problem. Kits and by extension, other modular ‘solutions’ to knowing & doing, can make us feel like we are in control, literate and resilient when we are not.
 
-Critical kits, however, maintain well-crafted convenience but explore more open spaces for discovery, learning and doing. They are embodied, nuanced experiences that challenge understanding and support the intimate ‘construction’ of what we know. When Makers make from their social plateaus of competence, what is obscured is that making is dependent on maintenance, the ongoing communal construction, a dark mattering of knowledge.”***
+Critical kits, however, maintain well-crafted convenience but explore more open spaces for discovery, learning and doing. They are embodied, nuanced experiences that challenge understanding and support the intimate ‘construction’ of what we know. When Makers make from their social plateaus of competence, what is obscured is that making is dependent on maintenance, the ongoing communal construction, a dark mattering of knowledge.”*
 
 As I write I notice one of the stars of this year’s Ars Electronica, the establishment of tech - art and usually the home of inventor-genius media-tech spectacle is [Giulia Tomasello](https://gitomasello.com/Future-Flora)’s Future Flora project; a classic (crtitical) kit in bio-science exploring agency and literacy. This reveals that a Critical Kits approach is in the air, so all the more important to do this period of sustained research and add to the projects future. Like when
 considering Maintenance, another reflection I’m having with the [Festival of Maintenance](https://festivalofmaintenance.org.uk/), once we have our kit and maintenance glasses on, you see them everywhere in everything we make and do.
