@@ -20,7 +20,7 @@ I've done this for people like Octopus Collective, FACT, The Crafts Council, PRS
 ## Recent Posts
 
 <ul class="posts">
-  {% for post in site.posts limit:4 %}
+  {% for post in site.posts limit:5 %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
@@ -29,17 +29,22 @@ I've done this for people like Octopus Collective, FACT, The Crafts Council, PRS
 
 Find my stuff on [github](https://github.com/cheapjack)
 
-## My Projects
-[Project Archive](/pages.html)
+## Domestic Science
+[Collaborations around 'domestic' knowledge](http://domesticscience.org.uk)
 
+## My Project Archive
+[Project Archive](/pages.html)
 
 ## My Blog Archive
 [Blog Archive](/archive.html)
 
+## Get in Touch
+Tweet me [@cheapjack](https://twitter.com/cheapjack)
+
 ## Speculative Ideas
 [Feed of throwaway and partly serious ideas](https://feeds.pinboard.in/rss/u:cheapjack/t:notimenobudget)
 
-## My Other Blogs
+## My Old Blogs
 [Thinking & quoting](http://cheapjack.tumblr.com)
 [ArtJelly](http://artjelly.tumblr.com)
 
