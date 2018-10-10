@@ -22,7 +22,7 @@ Special Thanks to Researcher Dr Mark Wright for his support and vision and the F
 
 ### Background
 
-[The Minecraft Of Things](http://minecraftofthings.tumblr.com) sprang from research with [FACT](http://fact.co.uk/), [Dr Mark Wright](https://twitter.com/dr_mark_wright), [Adrian McEwen](http://www.mcqn.com/) and Paul Harter of [PrintCraft](http://www.printcraft.org/) funded by [IT as a Utility (ITaaU) Network](http://www.itutility.ac.uk) for the [CloudMaker](http://www.fact.co.uk/projects/cloudmaker-making-minecraft-real.aspx) project
+[The Minecraft Of Things](http://minecraftofthings.tumblr.com) sprang from research with [FACT](http://fact.co.uk/), [Dr Mark Wright](https://twitter.com/dr_mark_wright), [Adrian McEwen](http://www.mcqn.com/) and Paul Harter of [PrintCraft](http://www.printcraft.org/) funded by [IT as a Utility (ITaaU) Network](http://www.itutility.ac.uk) for the [CloudMaker](http://www.fact.co.uk/projects/cloudmaker-making-minecraft-real) project
 
 
 ## What we made
@@ -31,7 +31,7 @@ Special Thanks to Researcher Dr Mark Wright for his support and vision and the F
 
 <img src="/images/MinecraftTable.jpg" width="600">
 
-[Main Project Page](http://www.fact.co.uk/projects/cloudmaker-making-minecraft-real.aspx)
+[Main Project Page](http://www.fact.co.uk/projects/cloudmaker-making-minecraft-real)
 
 #### Interactive Minecraft Table Interface
 
@@ -66,12 +66,12 @@ Prototype Minecraft pick and place machine by Patrick Fenner
 
 <img src="/images/MemoryCraft.jpg" width="600">
 
- * PrintCraft [Family Workshop](http://www.fact.co.uk/whats-on/current/family-workshop-printcraft.aspx)
- * PrintCraft Goes Sci-Fi CloudMaker event based on [Science Fiction: New Death](http://www.fact.co.uk/projects/science-fiction-new-death.aspx) exhibition.
- * CloudMaker [Teacher Event](http://www.fact.co.uk/whats-on/current/cloudmaker-teachers-event.aspx)
+ * PrintCraft [Family Workshop](http://www.fact.co.uk/whats-on/current/family-workshop-printcraft)
+ * PrintCraft Goes Sci-Fi CloudMaker event based on [Science Fiction: New Death](http://www.fact.co.uk/projects/science-fiction-new-death) exhibition.
+ * CloudMaker [Teacher Event](http://www.fact.co.uk/whats-on/current/cloudmaker-teachers-event)
  * Minecraft workshop for Lesions in the Landscape Exhibition and Preview night
- * Saturday [FACTLab Minecraft Workshop](http://www.fact.co.uk/whats-on/current/do-something-saturday-factlab-minecraft-workshop.aspx)
- * [MemoryCraft](http://www.fact.co.uk/whats-on/current/do-something-saturday-memorycraft.aspx) Programme of inspired by **Lesions in the Landscape** exhibition *Shona Illingworth*
+ * Saturday [FACTLab Minecraft Workshop](http://www.fact.co.uk/whats-on/current/do-something-saturday-factlab-minecraft-workshop)
+ * [MemoryCraft](http://www.fact.co.uk/whats-on/current/do-something-saturday-memorycraft) Programme of inspired by **Lesions in the Landscape** exhibition *Shona Illingworth*
   * Exploring the nature of Memory and how that relates to the **internet of things**.
 
 #### StasisCraft 
@@ -108,7 +108,7 @@ Prototype Minecraft pick and place machine by Patrick Fenner
 
 <img src="/images/RFID.jpg" width="600">
 
-#### [Lever Prize](http://www.fact.co.uk/news-articles/2016/01/fact-wins-the-lever-prize.aspx) at Manchester Museum of Science and Industry [RF-Rail-Craft](https://github.com/cheapjack/RF-Rail-Craft)
+#### [Lever Prize](http://www.fact.co.uk/news-articles/2016/01/fact-wins-the-lever-prize) at Manchester Museum of Science and Industry [RF-Rail-Craft](https://github.com/cheapjack/RF-Rail-Craft)
 
 #### Hardware
 
