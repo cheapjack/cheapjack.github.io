@@ -8,7 +8,6 @@ tags: [music, SoundNetwork, Crazy Golf, events, Bouncy Castle]
 {% include JB/setup %}
 
 
-# Fairground Frameworks
 
 <img src="images/FF/FairgroundFrameworks.jpg" width="400">
 
