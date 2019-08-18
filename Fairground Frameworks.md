@@ -38,16 +38,16 @@ From SoundNetwork's perspective, it supported their remit to foster playful enag
 
 Originally Ross & SoundNetwork's response to FON Festival's invitation to make work about their public park was to invite artists unused to working with technology to develop temporary crazy golf holes 'hacking' an existing well used pitch-and-putt mini-golf green which would stealthily enable artists to work with non-screen based technology 'physical computing' and public intaeraction design but in response to their environment.
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/43024935" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/43024935">Crazy Golf Hack by Sound Network and invited artists at FON 2011</a> from <a href="https://vimeo.com/user4699794">Octopus Collective</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
 It led to developing the Fairground Framework tour supported by Arts Council England and a celebratory project for [FACT](https://fact.co.uk) which you can see below to open up the project to more artists in the North West.
 
 <img src="images/FF/CrazyGolfweb.jpg" width="200"><br>
 
-<!--<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/43024935" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>-->
-<p><a href="https://vimeo.com/43024935">Crazy Golf Hack by Sound Network and invited artists at FON 2011</a> from <a href="https://vimeo.com/user4699794">Octopus Collective</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-
-
-<!--<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/62172831" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>-->
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/62172831" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p><a href="https://vimeo.com/62172831">Hacky Birthday! Celebrating 10 years of the FACT building</a> from <a href="https://vimeo.com/factliverpool">FACT</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <img src="http://cheapjack.github.io/tumblr_files/tumblr_mfupeyDHkB1r2ybsso1_1280.jpg" height="400">
