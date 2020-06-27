@@ -5,7 +5,7 @@ tagline: Connecting People and Things
 ---
 {% include JB/setup %}
 
-![Viewing Area Image](http://33.media.tumblr.com/fd1af59a2d9c5b5bbaa92467c8218b1a/tumblr_inline_mte05um05M1qa02bl.jpg)
+![Viewing Area Image](images/ViewingAreaNeil.jpeg)
 
 ### Cheapjack is me, Ross Dalziel, an artist and researcher who sets up activity, events & makes systems to explore how knowledge is produced and shared. 
 
