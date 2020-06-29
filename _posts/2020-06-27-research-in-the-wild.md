@@ -11,7 +11,7 @@ tags: [kits,art,science,biology]
 
 *Seth Price. 2020*
 
-It's been a privilege to work the past year in LICA and the Division of Biomedical Life Sciences on my Critical Kits PhD research, but recent events in the world, crises within crises have made me realise just quite how much of a privilege this really is. The flexible nature of Kits and how they can make knowledge 'travel' means I can continue the research in and out of lockdown having just posted out a series of [Lab From A Chip Kits](cheapjack.github.io/LabFromAChip/) to a diverse mix of people. 
+It's been a privilege to work the past year in LICA and the Division of Biomedical Life Sciences on my Critical Kits PhD research, but recent events in the world, crises within crises have made me realise just quite how much of a privilege this really is. The flexible nature of Kits and how they can make knowledge 'travel' means I can continue the research in and out of lockdown having just posted out a series of [Lab From A Chip Kits](LabFromAChip/) to a diverse mix of people. 
 
 My research, like much research has developed alot of sensitivities in myself, my work and I hope my collaborators and the kits we are making and using together. Like everyone the lockdown has made us re-think and re-configure; I reflected a little on this [in some writing for the Contemporary Visual Arts Network North-by-NorthWest (CVANNbyNW)](http://www.thedoublenegative.co.uk/2020/04/research-in-the-wild-an-ever-changing-map-of-connected-relationships/)
 
