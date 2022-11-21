@@ -7,15 +7,17 @@ tagline: Connecting People and Things
 
 ![Viewing Area Image](images/ViewingAreaNeil.jpeg)
 
-### Cheapjack is me, Ross Dalziel, an artist and researcher who sets up activity, events & makes systems to explore how knowledge is produced and shared. 
+### Cheapjack is Ross Dalziel, an artist and researcher who sets up activity, events & makes systems to explore how knowledge is produced and shared. 
 
-**I like to play with how research & knowledge is produced; who makes it, receives it, where they make it and how.**
+**I explore how research & knowledge is produced; who makes it, receives it, where and how they make it and for who's benefit.**
 
-I usually put together events, systems and situations that explore this. I then bring people from different disciplines together to make things happen. I'm often based at [DoES Liverpool](http://doesliverpool.com/) a brilliant Makerspace in the heart of Liverpool City Centre. 
+I usually put together events, systems and situations that explore this. I bring people from different disciplines together to make things happen. Often I do this in the context of a form of 'art-science' or in 'maker' culture.  I'm sometimes based at the makerspace/co-working space [DoESLiverpool](https://doesliverpool.com/) in Liverpool and co-founder of the art collective [Domestic Science](https://domesticscience.org.uk/) who make playful spaces to explore technoscience and the domestic.
 
-Academics, Amateur Astronomers, Amatuer Radio Operators, Artists, Canoeing clubs, Chemical Factory Employees, Computer engineers, Decap Organ Restorers, Hackspaces, Makers, Musicians, Nintendo DS Programmers, Planespotters, Sailors, Scientists.
+Ultimately I'm concerned with critique, strategy and tactics in collective knowledge production and practice.
 
-I've done this for people like Octopus Collective, FACT, The Crafts Council, PRS for Music Foundation, National Museums Liverpool, Tate Liverpool, Ultima Contemporary Music Oslo, Laznia Centre for Contemporary Art, SoundNetwork, Arts Council England, AND Festival, Liverpool Biennial, Halton Borough Council and Urbane Kunst Ruhr.
+I've worked with all kinds of people: Artists, Activists, Academics, Amateur Astronomers, Amateur Radio Operators, Artists, Biologists, Canoeing clubs, Chemical Factory Employees, Computer engineers, Decap Organ Restorers, Hackspaces, Makers, Musicians, NHS staff, Nintendo DS Owners, Philosophers, Physiotherapists, Planespotters, Sailors, Social and Political Scientists.
+
+I've done this for organisations like AND Festival, Arts Council England, FACT, Halton Borough Council, Laznia Centre for Contemporary Art, Liverpool Biennial, National Museums Liverpool, Octopus Collective, PRS for Music Foundation, SoundNetwork, Tate Liverpool, The Crafts Council, Ultima Contemporary Music Oslo and Urbane Kunst Ruhr. I currently work at the [Neuromuscular Centre](https://www.nmcentre.com/) a social enterprise and charity for people living with Neuromuscular conditions like my own and teach Fine Art Fundamentals at [Lancaster University](https://www.lancaster.ac.uk/lica/), where I am a PhD candidate at [LICA](https://www.lancaster.ac.uk/lica/) and the [Faculty of Health and Medicine](https://www.lancaster.ac.uk/health-and-medicine/) and a member of the [Centre For Science Studies](https://wp.lancs.ac.uk/sciencestudies).
 
 ## Recent Posts
 
