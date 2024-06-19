@@ -115,9 +115,7 @@ Making something with and for a very specific group of people, can attempt to av
 
 These may not have to be new and innovative, there's a whole tradition of engaging work, but they need to be sensitive, understand their terrian and open to criticism. They need investment of both time and resources and institutions who support critical thought, which is increasingly under threat when certain kinds of knowledge is seen as valid and others not. METAL Liverpool were exemplary in regard to investing in time for the Algae BioPlastic project, but these opportunities, like my own PhD scholarship which made my research possible are rare. At the same time we have to be aware that the institutions of expertise and funding are increasingly part of a social process understood by various publics and citizens as losing both legitimacy and relevance. We have to think what we really want to do and how to get there and who benefits from it.
 
-<iframe height="600px" width="100%" title="ONS Census Maps" frameborder="0" src="https://www.ons.gov.uk/census/maps/choropleth/population/household-deprivation/hh-deprivation/household-is-deprived-in-two-dimensions?geoLock=oa&oa=E00176727&embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-3.0087645247107275%2C53.33110908441469%2C-2.8312306257227533%2C53.416596712022226" />
 
-*Interactive deprivation map comparing my postcode with the postcode of METAL, the location of the AlgaeBioPlastic lab project and area of secondary school participants*
 
 [^R1]: Williams, R. 1995 Social Text (no. 42, Spring), 69-98.
 [^R3]: Bourriaud, N. (2002) Relational aesthetics. Dijon]: Les Presses du Réel (Collection documents sur l’art).
@@ -130,4 +128,9 @@ These may not have to be new and innovative, there's a whole tradition of engagi
 [^Doorling]: Doorling, D. (2023) Shattered Nation: Inequality and the Geography of A Failing State. Verso. https://www.dannydorling.org/books/shatterednation/slides.html
 [^Moore]: Moore, J. W. (2010) Capitalism in the Web of Life
 [^Assemblage]: Buchanan, I. (2021) Assemblage Theory and Method. Bloomsbury Academic. Available at: https://doi.org/10.5040/9781350015579. For me Buchanan's reading of Deleuze & Guattari is much more useful than the original texts which I find dense and unwieldly.
-[^BioBox]: King, S. and Powell, Z. (2021) BioBox STEAMhouse X Materiom, BioBox STEAMhouse X Materiom. Available at: https://distributeddesign.eu/awards/entries/biobox-steamhouse-x-materiom/ (Accessed: 12 August 2021).
+[^Biobox]: King, S. and Powell, Z. (2021) BioBox STEAMhouse X Materiom, BioBox STEAMhouse X Materiom. Available at: https://distributeddesign.eu/awards/entries/biobox-steamhouse-x-materiom/ (Accessed: 12 August 2021).
+
+
+<iframe height="600px" width="100%" title="ONS Census Maps" frameborder="0" src="https://www.ons.gov.uk/census/maps/choropleth/population/household-deprivation/hh-deprivation/household-is-deprived-in-two-dimensions?geoLock=oa&oa=E00176727&embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-3.0087645247107275%2C53.33110908441469%2C-2.8312306257227533%2C53.416596712022226" />
+
+*Interactive deprivation map comparing my postcode with the postcode of METAL, the location of the AlgaeBioPlastic lab project and area of secondary school participants*
