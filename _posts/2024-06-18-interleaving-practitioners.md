@@ -11,7 +11,7 @@ tags: [algae, plastic, research, workshops]
 # The Interleaving Practitioner
 
 
-<img src="/images/InterleavingPracticesFrontCover.png">
+<img width="700" src="/images/InterleavingPracticesFrontCover.png">
 
 *Interleaving Practices Thesis Front Cover (Dalziel & Jung 2022)*
 
@@ -27,7 +27,7 @@ I've since developed broadly my understandings of social theory and feel able to
 
 What is at the heart of the Interleaving method, to be an 'Interleaving Practitioner', is the very simple idea common to traditions of social science ethnography, that to engage with or analyse a complex group or thing, you may have to get close to them socially rather than review or analyse existing literature or data. I may have privileged that approach over others and since understand how 'getting close' to data or literature could be just as revealing as in depth ethnography, and that generalisations are not necessarily reductions, it's a matter of choosing the strategy and tactics for what you want to find out. This ethnographic approach acknowledges that in the process of 'getting close' you may be changed along the way and that a study of something is not a simple observation from nowhere, but an intervention that will evolve and also potentially change what's being studied. It starts from a position that any 'thing' is always an evolving *social process* involving *practices* that any kind of research or practice is part of and leads to questions of how things are done, who does them, how, where and why they do them and who benefits. David Harvey outlines a generic model for a social process in his landmark book on Geography, *Justice, Nature and the Geography of Difference* [^REF6] below.
 
-<img src="/images/TheSocialProcessMermaid.png">
+<img width="700" src="/images/TheSocialProcessMermaid.png">
 
 *The Social Process as outlined by Harvey (1996)*
 
@@ -36,28 +36,28 @@ It's almost banal to say that by studying something you are part of the very pro
 
 In my practice the making would lead to a prototype or project that could be used by and for the people and situations of the workshop or project to reveal to themselves and others the existing social process. The artwork is often the thing made and the social activity that goes around it, usually in the form of participatory workshops, games or events using a made object or more recently 'kits'. Used as a method for research, the object or thing made with and for the people being studied would not only internalize all the dynamics and practices of the social process but also reveal them for analysis that long interviews and observations from a distance might not. In one of my case studies this social object was a technical kit made with the microbiologists I was studying, that could be used in a workshop setting, or posted to somebody. It was a kit for non-scientists to not only learn what microbiologists do, but to participate in simplified versions of those same practices.
 
-<img src="/images/KitPostEuglenaMontage.png">
+<img width="700" src="/images/KitPostEuglenaMontage.png">
 
 *LabFromAChip kit development with microscope image made from the kit*
 
 
 My thesis initially proposed expanding on the idea of ‘Critical kits’ a term from a symposium I organised collaboratively with artist Neil Winterburn and collective Re-Dock [^Redock] in Liverpool in 2016 and a subsequent book, Critical Kits And How We Use Them [^CriticalKits] to explore the influence of maker culture on art practices in the North West of the UK. Building on the symposium, in my research I began to respond to this through forms of ‘critical making’. Critical making refers to the work of Matt Ratto, who coined the term, Garnet Hertz and others on the intersection of academia and maker culture [^CriticalMakingRef].
 
-<img src="/images/BioTrumpsSlide.png">
+<img width="700" src="/images/BioTrumpsSlide.png">
 
 *Image of slide of Critical Kits card game and book made for the Critical Kits Symposium*
 
 
 By exploring how the critical making approach to kits could be used in this ethnographic mode of art practice I ended up developing an art practice as a social scientific method. To build something like a kit with people you need to get to know them and the context in which they work enough to be able to decide on something to make, something that both the researcher and the research subject share an interest in. That requires building a relationship and a kind of constant negotiation that involves a much larger amoumnt of time and a qualitively different kind of interaction and opportunity for observation and analysis than conventional interviews or 'fly on the wall' style ethnographic studies.
 
-<img src="/images/LabChipPCB3DRender3.png">
+<img width="700" src="/images/LabChipPCB3DRender3.png">
 
 *LabFromAChip PCB design rendered before fabrication in Schenzhen, China*
 
 
 The other key element in this kind of approach is that you can be explicit, both to yourself as a researcher and with the participants that by making together you are also constructing an analysis *with* them of the collaborative process. That can of course also happen when you reflect with people in a conventional interview situation. But my research explored how the slow complicated interdisciplinary embodied act of making something collaboratively, means you can develop more capacity for reflection, analysis and ultimately mutual understanding even if there is antagonism and frustration along the way. Making a technical tool or object like a kit requires lots of different practices and so alot more opportunities for building an understanding of those social processes. It meant I could collaboratively write extensive tutorials of [PCB design in KiCAD](https://github.com/mcqn/my-first-pcb/tree/master/DesigningMyFirstBadgeLife) with [MCQN Ltd](https://mcqn.com/) while also analysing how diverse groups of makers learn together.  
 
-<img src="/images/PCBCooking.jpg">
+<img width="700" src="/images/PCBCooking.jpg">
 
 *Making the solder mask and soldering on components to the Interspecies gaming platform for interacting with algae once receiving printed circuit boards at DoESLiverpool alongside some product development for Internet of Things company MCQN*
 
@@ -67,7 +67,7 @@ Along the way I used the knowledge of the makerspace [DoESLiverpool](https://doe
 
 ## Practical Workshops and Praxis
 
-<img src="/images/WorkshopMontage.png">
+<img width="700" src="/images/WorkshopMontage.png">
 
 *Algae Bio Plastic Lab Workshops*
 
@@ -79,6 +79,11 @@ Instead of showing people an elaborate artwork  'about' bioplastic and then disc
 
 This is how I implemented the methods of Interleaving and kit making. The Bioplastic kits are a form of group education and a method of critique. It does not fetishise the idea of a lab but the commission paid me to develop and deliver some online resources and workshops that can be repeated and distributed locally and in-house instead of exhibitions and artworks. It is meant to be a critique of the utility of artist residencies and a model for professional practice. How to make this model into a sustainable income for artists and organisations is something I've been thinking about for further research that is like a more critical version of the work Steamhouse did with Materiom for the BioBox project I participated in [^Biobox].
 
+
+<img width="700" src="/images/JackieBioBox.jpeg">
+
+*The Biobox developed by Materiom with Steamhouse in Birmingham and Distributed Design coordinated by Fablab Barcelona and the Institute for advanced archistecture of Catalonia (Iaac). 'This project looks to actively challenge our consumption habits through education and develop responsible design as a key component when measuring successful design.' Image credit: Jackie Pease* 
+
 To do so called socially engaged work, be that through an 'art-science' practice like mine or creative social science research, it can help to understand the social process you are observing as a complex social *assemblage* of not just what's happening in the moment of observations but the long tail of historical conditions of the kind of situation, the institutional practices, the class positions of participants and researcher. Any method of knowing has to get deep into the complex layers of that process and how it might interact with others and how it gets assembled together as an object, phenomena or distinct social group. Assemblage is a term used by a range of social scientists and critical theorists including Félix Guattari and Gilles Deleuze [^Assemblage]. You have to *interleave* many different layers or *assemblages* of things and processes to do that kind of work, reading between and across pages, working on different layers, traversing different landscapes and strata. With this perspective, objects, practices and institutions, even scientific facts are not things-in-themselves but historical *accomplishments*.
 
 Further to that, you can become critical and conscious of your own role in that accomplishment, that social process, and be aware of the implications, presumptions and often obscured political committments you might have when you try to engage with something. In my approach, and in the conclusions of my thesis, you start to critically understand not only the possibilities of something, which can lead to utopian overstatements and hyperbole, but the real material constraints of what you can and cannot do, based on the historical terrain and conditions of what you're doing . In the end you start to think of what you do as an artist, educator or social scientist in *strategic* terms. What do you want to do and how to get there?
@@ -89,9 +94,16 @@ Thinking of art practice or indeed any practice as a *strategy* for understandin
 
 ## Historical Terrain
 
+<img width="800" src="/images/AigburthWavertreeDeprivationMap.png">
+
+*Image from Office of National Statistics Census 2021 data comparing Household deprivation between METAL, the location of the AlgaeBioPlastic Lab workshops in the Wavertree area, the source of secondary school participants in the project and my own postcode in Aigburth. 'Deprived in two dimensions' refers to any 2 dimensions of 4 household characteristics: Education; no one has at least level 2 education and no one aged 16 to 18 years is a full-time student, Employment; any member, not a full-time student, is either unemployed or economically inactive due to long-term sickness or disability, Health; any person in the household has general health that is bad or very bad or is identified as disabled or assessed their day-to-day activities as limited by long-term physical or mental health conditions or illnesses are considered disabled, Housing; A household is classified as deprived in the housing dimension if the household's accommodation is either overcrowded, in a shared dwelling, or has no central heating.'*
+
+
 The reality of how our desire to know and the extent to which we can intervene in the world, through science or art, is constrained by the particular historical conditions and terrain of our situations. This is something I think is often made absent from our received folk ideas of art practice and art education. Certain narratives of popular art and cultural history seem to suggest artists are innovative outsiders and heroic leaders of counter culture, leading symbols of new possibilities for changing society and culture. It is much more useful to understand that artists are produced by the dynamics of social change, not to say they are unimportant, but that they are attuned to the feelings of the time, rather than driving it. Again using Williams' most enduring concepts, artists tend to be incredibly sensitive to the currents of *structures of feeling*. Perhaps under the pressures of a political economy of art where artists must be always developing their practice to compete in a highly precarious industry of attention, to be seen as important or relevant, drive us to overstate the possibiliies of our practice in it's own terms. Understanding the constraints of how art can point at problems might help artists come together and connect to wider movements.
 
-I claimed in my thesis that using this method could be used politically, in the context of crises like climate change. I claimed that this kind of art practice was building up people's critical understanding of microbiology or sustainability. Since then I think I was thinking more about possibilities over constraint, perhaps to be competitive in the market economy of the workshops that sustained my professional practice. These workshops are taking place in often unacknowledged secluded social conditions - there is nothing in the kit that considers how different people might respond. It assumes a level of social capital to engage with it and presumes 'non-scientists' means everyone. Not everyone will use the Algae Bioplastic kits or take part in the workshop - the opposite, only a very select if not self-selecting group that are already open to the idea of alternatives to plastic, have been selected by a school to have the capacity to respond positively or having the free time available.
+I claimed in my thesis that using this method could be used politically, in the context of crises like climate change. I claimed that this kind of art practice was building up people's critical understanding of microbiology or sustainability. Since then I think I was thinking more about possibilities over constraint, perhaps to be competitive in the market economy of the workshops that sustained my professional practice. These workshops are taking place in often unacknowledged secluded social conditions - there is nothing in the kit that considers how different people might respond. It assumes a level of social capital to engage with it and presumes 'non-scientists' means 'everyone'. There is a common, well-meant, implicit assumption in kit making culture that the democratising kits, often painstakingly documented in accessible language, are 'for everyone'. But clearly not 'everyone' will use the kits in my Algae Bioplastic project or take part in the workshops. Only a very select if not a self-selecting group already open to the idea of alternatives to plastic, or students selected by a local school actually use the kits. In my research I realised that what is in a kit, what makes it 'work', is more than just a bag of components and good easy to read documentation, but what is 'hidden' beyond it; the users capacity to use the material and gain something from the experience. The kit is not a self contained thing but part of a social process. Everything in life experience, class, race and gender position affects how people use any kind of kit or 'educational' resource. How kits democratise things has to consider the hidden dimensions. 
+
+In my research I spent long sessions with participants to 'build' that capacity. I had to realise my assumptions and the experience of my collaborators and we made that capacity together - we interleaved our respective experience and capacities. This sounds complicated and I could elaborate this in Deleuzian terms. But it's also obvious to anyone, critical theory isn't necessary to understand that to work with people you need to understand their needs, feelings, material interests and experience, assume nothing, be generous and patient and bring them alongwith you. Everything that we all do everyday. To really be an Interleaving Practitioner I would need to do the harder work to develop these kits *with* the participants and this unfortunately was beyond the scope of a small residency programme. The investment of time required for this kind of work can only be dealt with institutionally and in the current moment this is by far the biggest restriction. Not only are institutions starved of resources for time, this kind of work is not really valued but more than that people don't have time to develop their capacity beyond basic survival.  
 
 Reflecting I would say that my claims are actually symptomatic of alot of art-science and so called 'socially engaged' art practice, also known as 'relational art' [^R3]. It can become a kind of micro politics that claims that by 'changing minds' through alternative experiences we can 'change the discourse' and 'raise awareness' around a progressive topic. It reminds me of something the literary theorist Raymond Williams called a long time ago, *militant particularism* [^R1]. For Williams, he was describing how a political project focussing on a particular set of demands in a particular situation; miners in a specific community in Wales, could then be articulated into and connected to a progressive universal demand for meaningful sustainable working lives that might resonate with people with different often incommensurable and even reactionary perspectives. Much of my art practice and others has an impressive amount of innovative militancy of the particular, but an inability, or perhaps something more like a structural constraint, to articulate it beyond its microscopic particulars into more universal demands or progressive projects that a wider pubic could engage with. I quoted political theorist Jeremy Gilbert in my thesis, who critiques so called 'relational art' which 'socially engaged art' is arguably a part of, but I dont think I have really developed a convincing response to it either in my thesis or my practice since.
 
@@ -103,17 +115,19 @@ Making something with and for a very specific group of people, can attempt to av
 
 These may not have to be new and innovative, there's a whole tradition of engaging work, but they need to be sensitive, understand their terrian and open to criticism. They need investment of both time and resources and institutions who support critical thought, which is increasingly under threat when certain kinds of knowledge is seen as valid and others not. METAL Liverpool were exemplary in regard to investing in time for the Algae BioPlastic project, but these opportunities, like my own PhD scholarship which made my research possible are rare. At the same time we have to be aware that the institutions of expertise and funding are increasingly part of a social process understood by various publics and citizens as losing both legitimacy and relevance. We have to think what we really want to do and how to get there and who benefits from it.
 
+<iframe height="600px" width="100%" title="ONS Census Maps" frameborder="0" src="https://www.ons.gov.uk/census/maps/choropleth/population/household-deprivation/hh-deprivation/household-is-deprived-in-two-dimensions?geoLock=oa&oa=E00176727&embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-3.0087645247107275%2C53.33110908441469%2C-2.8312306257227533%2C53.416596712022226" />
+
+*Interactive deprivation map comparing my postcode with the postcode of METAL, the location of the AlgaeBioPlastic lab project and area of secondary school participants*
+
 [^R1]: Williams, R. 1995 Social Text (no. 42, Spring), 69-98.
 [^R3]: Bourriaud, N. (2002) Relational aesthetics. Dijon]: Les Presses du Réel (Collection documents sur l’art).
 [^R4]: Gilbert, J. (2014) Common Ground: Democracy And Collectivity In An Age Of Individualism. Pluto Press.
 [^REF6]: Harvey, D. (1996) Justice, nature, and the geography of difference. Cambridge, Mass: Blackwell Publishers.
 [^REF7]: Gould, S.J. (1990) Wonderful life : the Burgess shale and the nature of history. London: Hutchinson Radius.
-[^CriticalMakingRef]: Ratto, M. (2017) ‘The Critical Experience of Making: Interview with Matt Ratto |
-La experiencia crítica del hacer: Entrevista a Matt Ratto’ and Hertz, G. (2012) ‘Critical Making - Hertz’, Critical Making Concept Lab.
-https://www.conceptlab.com/criticalmaking/
+[^CriticalMakingRef]: Ratto, M. (2017) ‘The Critical Experience of Making: Interview with Matt Ratto La experiencia crítica del hacer: Entrevista a Matt Ratto’ and Hertz, G. (2012) ‘Critical Making - Hertz’, Critical Making Concept Lab.  https://www.conceptlab.com/criticalmaking/
 [^Redock]: Dalziel, R. and Winterburn, N. (2016) ‘Critical Kits Re-Dock’, Re-Dock. https://re-dock.org/critical-kits/
 [^CriticalKits]: Jones, N. (eds) et al. (2016) Critical Kits And How We Use Them. First. Torque Editions (1st ser.)
-[^Doorling]: Doorling, D. (2023) Shattered Nation: Inequality and the Geography of A Failing State. Verso.
+[^Doorling]: Doorling, D. (2023) Shattered Nation: Inequality and the Geography of A Failing State. Verso. https://www.dannydorling.org/books/shatterednation/slides.html
 [^Moore]: Moore, J. W. (2010) Capitalism in the Web of Life
-[^Assemblage]: Buchanan, I. (2021) Assemblage Theory and Method. Bloomsbury Academic. Available at: https://doi.org/10.5040/9781350015579. For me Buchanan's reading of Deleuze & Guattari is much more useful than the original texts which I find dense and unwieldly
+[^Assemblage]: Buchanan, I. (2021) Assemblage Theory and Method. Bloomsbury Academic. Available at: https://doi.org/10.5040/9781350015579. For me Buchanan's reading of Deleuze & Guattari is much more useful than the original texts which I find dense and unwieldly.
 [^BioBox]: King, S. and Powell, Z. (2021) BioBox STEAMhouse X Materiom, BioBox STEAMhouse X Materiom. Available at: https://distributeddesign.eu/awards/entries/biobox-steamhouse-x-materiom/ (Accessed: 12 August 2021).
