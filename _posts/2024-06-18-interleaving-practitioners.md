@@ -16,7 +16,6 @@ tags: [algae, plastic, research, workshops]
 *Interleaving Practices Thesis Front Cover (Dalziel & Jung 2022)*
 
 
->there is no development, no social struggle, no social contradictions which proceed exclusively according to the will of men and women. We come into struggles, to  of life, which operate on a given terrain. . . . to be both a scientist and to be involved in the struggle [^REF5]
 
 In 2023 I completed an art PhD, *Interleaving Practices and Critical Kits* at the [Lancaster Institute for the Contemporary Arts](https://www.lancaster.ac.uk/lica/) through a [Faculty of Arts and Social Sciences (FASS) Doctoral scholarship](https://www.lancaster.ac.uk/arts-and-social-sciences/postgraduate-funding/fass-doctoral-scholarships/). It's taken me well over a year to publish a blog post reflecting on that process after completing a residency with METAL Liverpool developing educational resources for experimenting with Bioplastic, the [Algae Bioplastic Lab](https://cheapjack.github.io/AlgaeBioPlasticLab/). In that research and thesis I employed a diverse mix of social theory grounded in the context of my art practice. That art practice was in the form of individual and series of workshops, funded commissions and residencies that featured working with specialist technical communities like computer programmers, planespotters, radio enthusiasts, the broadly defined 'maker culture' and most recently, microbiologists. By 'maker culture', I mean a kind of DIY practice where people, often technically minded software and hardware professionals, hobbyists and engineers use online networks and shared workspaces known as 'makerspaces' to make projects, products and objects using more or less democratised open source tools for 3D printing, lasercutting and other kinds of hybrid digital and physical fabrication. Embedded in that culture, I developed an approach to interdisciplinary work in the tradition of so-called 'socially engaged' and also 'art-science' practice. This evolved into a method for art practice I called *Interleaving Practices* which was both the end result and methodology of the research.
 
@@ -107,7 +106,6 @@ These may not have to be new and innovative, there's a whole tradition of engagi
 [^R1]: Williams, R. 1995 Social Text (no. 42, Spring), 69-98.
 [^R3]: Bourriaud, N. (2002) Relational aesthetics. Dijon]: Les Presses du Réel (Collection documents sur l’art).
 [^R4]: Gilbert, J. (2014) Common Ground: Democracy And Collectivity In An Age Of Individualism. Pluto Press.
-[^REF5]: Hall, S. (1983) ‘For a marxism without guarantees’, Australian Left Review, 84(84), pp. 38–43.
 [^REF6]: Harvey, D. (1996) Justice, nature, and the geography of difference. Cambridge, Mass: Blackwell Publishers.
 [^REF7]: Gould, S.J. (1990) Wonderful life : the Burgess shale and the nature of history. London: Hutchinson Radius.
 [^CriticalMakingRef]: Ratto, M. (2017) ‘The Critical Experience of Making: Interview with Matt Ratto |
