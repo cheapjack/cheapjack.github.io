@@ -130,7 +130,3 @@ These may not have to be new and innovative, there's a whole tradition of engagi
 [^Assemblage]: Buchanan, I. (2021) Assemblage Theory and Method. Bloomsbury Academic. Available at: https://doi.org/10.5040/9781350015579. For me Buchanan's reading of Deleuze & Guattari is much more useful than the original texts which I find dense and unwieldly.
 [^Biobox]: King, S. and Powell, Z. (2021) BioBox STEAMhouse X Materiom, BioBox STEAMhouse X Materiom. Available at: https://distributeddesign.eu/awards/entries/biobox-steamhouse-x-materiom/ (Accessed: 12 August 2021).
 
-
-<iframe height="600px" width="100%" title="ONS Census Maps" frameborder="0" src="https://www.ons.gov.uk/census/maps/choropleth/population/household-deprivation/hh-deprivation/household-is-deprived-in-two-dimensions?geoLock=oa&oa=E00176727&embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-3.0087645247107275%2C53.33110908441469%2C-2.8312306257227533%2C53.416596712022226" />
-
-*Interactive deprivation map comparing my postcode with the postcode of METAL, the location of the AlgaeBioPlastic lab project and area of secondary school participants*
