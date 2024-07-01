@@ -64,8 +64,11 @@ The other key element in this kind of approach is that you can be explicit, both
 
 *Making the solder mask and soldering on components to the Interspecies gaming platform for interacting with algae once receiving printed circuit boards at DoESLiverpool alongside some product development for Internet of Things company MCQN*
 
-
 Along the way I used the knowledge of the makerspace [DoESLiverpool](https://doesliverpool.com/), my supervisors and existing social theory, primarily science and technology studies (STS) to inform the approach. I ended up with a portable kit that allowed non-scientists and non-makers to follow some of the material practices that I observed in the Faculty of Health and Medicine and also the makerspace, like making microscopic environments to observe algae, in the [Lab From A Chip](https://cheapjack.github.io/LabFromAChip/GettingStarted.html) project. The kit embodied and *internalized* the dynamics of makerspaces and biology labs, the dependence on globalised 'just-in-time' supply chains, how they worked across disciplines and scales, their political commmitments, the history of microscopy, the limits of high tech hyperbole and how scientists cared for the organisms they studied and how makers cared for each other through their tools.
+
+<img width="700" src="/images/InterspeciesGamingKitManualCards.jpg">
+
+*Final [Lab From A Chip](https://cheapjack.github.io/LabFromAChip/GettingStarted) kit in packaging with live algae, Interspecies Gaming handheld lighting stage for Foldscope, Foldscope kit, Micro-environment making kit, Critical Kits Manual with details of 'artworks' ie research projects, and a Bio-Trumps card game as literature review*
 
 
 ## Practical Workshops and Praxis
