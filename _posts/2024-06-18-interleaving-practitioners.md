@@ -75,7 +75,7 @@ Along the way I used the knowledge of the makerspace [DoESLiverpool](https://doe
 
 <img width="700" src="/images/WorkshopMontage.png">
 
-*Algae Bio Plastic Lab Workshops*
+*Algae Bio Plastic Lab Workshops with Origami by Hwa Young Jung*
 
 
 How that research and subsequent method played out in my practice as an artist after my thesis can be seen in my recent [Algae Bioplastic Lab project](https://cheapjack.github.io/AlgaeBioPlasticLab). For a residency at METAL Liverpool, I wanted to explore bioplastic as a material which I had started using in the research. Essentially I wanted to explore how the concept of innovative biomaterials was being used to address the crises of fossil fuel use - in particular commodity production's dependence on petroleum based plastic and the increased toxicity of plastics in the environment. My experience was that a good deal of excitement, development and hyperbole surrounded the idea of bioplastics as a way to replace petroleum based production. When I actually made some bioplastic myself, using the excellent resoures of [Materiom](https://commons.materiom.org/materials-database) I felt exilerated that I could make a 'new' material from remarkably simple ingredients and processes with the knowledge you were working toward a non petroleum future. Much of my art practice involved discovering emerging democratised making projects and instructionals and then building participatory creative workshops around them. I also took part in a workshop run by [STEAM house](https://steamhouse.org.uk/) at Birmingham City University aimed to develop artists, designers and makers use of biomaterials into realised products, businesses and enterprises.
