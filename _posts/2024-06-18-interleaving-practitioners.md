@@ -3,11 +3,11 @@ layout: post
 title: "Interleaving Practitioners"
 description: "Reflections on PhD research"
 category:
-tags: [algae, plastic, research, workshops]
+tags: [algae, plastic, research, education, workshops]
 ---
 {% include JB/setup %}
 
-<img width="700" src="/images/InterleavingPracticesFrontCover.png">
+<img width="500" src="/images/InterleavingPracticesFrontCover.png">
 
 *Interleaving Practices Thesis Front Cover (Dalziel & Jung 2022)*
 
@@ -21,10 +21,12 @@ I produced a set of maker-like projects (using standard maker techniques of lase
 
 I would explore a wide and diverse [body of art-science, biological science, technology and kit making literature and practice](https://domesticscience.org.uk/criticalkits/Library.html) and respond to it by making grounded in the research situations I was embedded in at DoES, FHM & the NMC. I would then observe participants using these projects and then re-make and develop the kits and projects, iterating through this process and using the observations as research data, and the kits and projects developed acted as the artworks. It's worth noting that in my practice the artworks and art objects are de-prioritised in favour of the social activity they generate. In the thesis each project is documented on GitHub and included as a manual at the end of the bibliography, following in the footsteps of makers in DoESLiverpool and the making community.
 
-Interleaving Practices is a method that tries to at once observe, analyse, participate and intervene while being grounded in a particular social process. In the context of a particular field of social science, Science and Technology Studies (STS), I made claims for it, in common with the traditions of socially engaged work, as a progressive, ethical and potentially liberatory and politicised form of creative knowledge production with an eye on social justice and change.
+*'Interleaved practice'* is an existing learning technique from the field of applied cognitive psychology where learning opportunities and practices are 'spaced' out and distributed between others, often across different subjects or types of skills or knowledge to allow for contextual learning. This is opposed to 'blocked practice' where learning tasks are consecutive and seperated from others, blocking other tasks until the primary task is completed or mastered. Interleaved practice has been shown to be empirically more effective in the fields of mathematics learning in children and adults. [^EffectsOfInterleavedPractice]
+
+*Interleaving Practices* as a research method, similarly argues for the benefits of this kind of learning 'spaced' between multiple types of activity, but extends this spacing across different kinds of practices and disciplines, even across different social relations. It's a messy self conscious method to at once observe, analyse, participate and intervene while being grounded in a particular social process. In the context of a particular field of social science, Science and Technology Studies (STS), I made claims for it, in common with the traditions of socially engaged work, as a progressive, ethical and potentially liberatory and politicised form of creative knowledge production with an eye on social justice and change.
 
 
-I've since developed broadly my understandings of social theory and feel able to reflect on, reconsider and contextualise my research within say, a political economy of theory and practice in the arts and social sciences. It's revealed to me a whole multitude of critique and elaboration of much of the literature fundamental to my research and also developed the constraints to the claims of the thesis. It's not uncommon to have completed a thesis and then realise you might disagree with some of it's claims and conclusions, or come to reject it's theoretical underpinnings and that's happened to me in some part. But it's also just a part of what my supervisor Rod Dillon described as coming to realise that what you *know* in your research, has only revealed just how much you ***don't*** know.
+I've since developed broadly my understandings of social theory and feel able to reflect on, reconsider and contextualise my research within say, a political economy of theory and practice in the arts and social sciences. It's revealed to me a whole multitude of critique and elaboration of much of the literature fundamental to my research and also developed the constraints to the claims of the thesis. It's not uncommon to have completed a thesis and then realise you might disagree with some of it's claims and conclusions, or come to reflect on or reject it's theoretical underpinnings and that's happened to me in some part. Interleaving can also be moder simply understood in established philosophies of early modernity, such as Hegelian dialectics, something Noam Chomsky once simplified in conversation with the great dialectical biologist Richard Lewontin, as 'thinking correctly'. But it's also just a part of what my supervisor Rod Dillon described as coming to realise that what you *know* in your research, has only revealed just how much you ***don't*** know.
 
 ## The Interleaving Practitioner
 
@@ -142,3 +144,4 @@ You can download the [thesis here](https://domesticscience.org.uk/criticalkits/I
 [^Assemblage]: Buchanan, I. (2021) Assemblage Theory and Method. Bloomsbury Academic. Available at: https://doi.org/10.5040/9781350015579. For me Buchanan's reading of Deleuze & Guattari is much more useful than the original texts which I find dense and unwieldly.
 [^Biobox]: King, S. and Powell, Z. (2021) BioBox STEAMhouse X Materiom, BioBox STEAMhouse X Materiom. Available at: https://distributeddesign.eu/awards/entries/biobox-steamhouse-x-materiom/ (Accessed: 12 August 2021).
 [^StructuresOfFeeling]: Williams, R. (1975) The long revolution. Westport, Conn.: Greenwood Press.
+[^EffectsOfInterleavedPractice]: Taylor, K. and Rohrer, D. (2010), The effects of interleaved practice. Appl. Cognit. Psychol., 24: 837-848. https://doi.org/10.1002/acp.1598
